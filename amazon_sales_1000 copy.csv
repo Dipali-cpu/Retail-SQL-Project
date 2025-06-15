@@ -1,0 +1,1001 @@
+order_id,order_date,product,category,price,quantity,total_sales,city,payment_method
+ORD1000,2025-05-23,Laptop Sleeve,Accessories,4550.18,2,9100.36,Mumbai,Net Banking
+ORD1001,2025-05-12,Echo Dot,Electronics,1918.43,1,1918.43,Ahmedabad,Cash on Delivery
+ORD1002,2025-05-30,Laptop Sleeve,Accessories,2428.4,5,12142.0,Kolkata,Debit Card
+ORD1003,2025-05-07,Sneakers,Footwear,4287.09,5,21435.45,Kolkata,Credit Card
+ORD1004,2025-05-13,Sneakers,Footwear,4897.2,2,9794.4,Pune,Cash on Delivery
+ORD1005,2025-05-18,Echo Dot,Electronics,4356.44,5,21782.2,Pune,Net Banking
+ORD1006,2025-01-19,Water Bottle,Home,3951.05,2,7902.1,Mumbai,UPI
+ORD1007,2025-02-23,Notebook,Stationery,3661.39,2,7322.78,Delhi,Cash on Delivery
+ORD1008,2024-07-15,Laptop Sleeve,Accessories,1085.85,4,4343.4,Mumbai,Credit Card
+ORD1009,2024-08-18,Laptop Sleeve,Accessories,4725.84,5,23629.2,Pune,UPI
+ORD1010,2024-10-16,Kindle,Electronics,4362.15,2,8724.3,Chennai,UPI
+ORD1011,2024-06-17,Fire TV Stick,Electronics,3817.51,3,11452.53,Pune,Cash on Delivery
+ORD1012,2025-06-04,Backpack,Bags,3005.59,2,6011.18,Chennai,Credit Card
+ORD1013,2025-05-05,Kindle,Electronics,2510.26,2,5020.52,Pune,UPI
+ORD1014,2024-08-16,Fire TV Stick,Electronics,2450.24,1,2450.24,Kolkata,Net Banking
+ORD1015,2025-01-22,Kindle,Electronics,4490.0,3,13470.0,Chennai,Cash on Delivery
+ORD1016,2024-12-15,LED Bulb,Home,2372.45,5,11862.25,Ahmedabad,Cash on Delivery
+ORD1017,2024-12-01,Sneakers,Footwear,3185.55,3,9556.65,Mumbai,Debit Card
+ORD1018,2024-06-18,Sneakers,Footwear,2619.11,5,13095.55,Chennai,Net Banking
+ORD1019,2024-09-11,Kindle,Electronics,2665.64,1,2665.64,Hyderabad,UPI
+ORD1020,2024-07-24,Echo Dot,Electronics,734.12,3,2202.36,Ahmedabad,Debit Card
+ORD1021,2025-02-03,Echo Dot,Electronics,2637.39,1,2637.39,Bangalore,Debit Card
+ORD1022,2025-03-05,T-shirt,Clothing,2211.47,1,2211.47,Pune,Debit Card
+ORD1023,2025-05-06,Water Bottle,Home,4601.59,3,13804.77,Ahmedabad,Debit Card
+ORD1024,2024-06-18,Echo Dot,Electronics,2172.83,4,8691.32,Hyderabad,Credit Card
+ORD1025,2025-01-01,LED Bulb,Home,4647.25,3,13941.75,Kolkata,Net Banking
+ORD1026,2024-10-17,Notebook,Stationery,4801.56,1,4801.56,Chennai,Net Banking
+ORD1027,2024-10-08,Kindle,Electronics,1937.77,2,3875.54,Pune,Net Banking
+ORD1028,2024-11-30,Echo Dot,Electronics,636.8,1,636.8,Bangalore,Net Banking
+ORD1029,2025-01-08,T-shirt,Clothing,2163.98,3,6491.94,Ahmedabad,Debit Card
+ORD1030,2024-12-14,Sneakers,Footwear,2749.0,3,8247.0,Hyderabad,Cash on Delivery
+ORD1031,2025-01-23,LED Bulb,Home,2783.99,1,2783.99,Delhi,UPI
+ORD1032,2024-11-12,Sneakers,Footwear,513.48,4,2053.92,Pune,Credit Card
+ORD1033,2024-10-20,Notebook,Stationery,252.84,1,252.84,Pune,Credit Card
+ORD1034,2025-03-11,T-shirt,Clothing,1047.91,5,5239.55,Bangalore,Debit Card
+ORD1035,2025-01-09,Fire TV Stick,Electronics,4083.02,5,20415.1,Bangalore,Credit Card
+ORD1036,2024-11-06,LED Bulb,Home,1906.8,5,9534.0,Mumbai,Debit Card
+ORD1037,2025-03-17,Laptop Sleeve,Accessories,4542.26,2,9084.52,Bangalore,UPI
+ORD1038,2024-12-10,T-shirt,Clothing,4137.25,1,4137.25,Mumbai,UPI
+ORD1039,2024-12-28,Kindle,Electronics,2570.57,5,12852.85,Ahmedabad,Debit Card
+ORD1040,2025-04-22,Water Bottle,Home,2749.23,4,10996.92,Pune,UPI
+ORD1041,2025-05-28,LED Bulb,Home,331.49,4,1325.96,Kolkata,Net Banking
+ORD1042,2025-03-18,Backpack,Bags,4183.56,5,20917.8,Chennai,Credit Card
+ORD1043,2024-08-11,Sneakers,Footwear,1116.72,5,5583.6,Chennai,Credit Card
+ORD1044,2025-01-27,Backpack,Bags,1814.56,1,1814.56,Bangalore,UPI
+ORD1045,2025-05-23,Notebook,Stationery,3523.77,3,10571.31,Ahmedabad,Credit Card
+ORD1046,2024-10-19,Kindle,Electronics,4405.64,1,4405.64,Chennai,Cash on Delivery
+ORD1047,2025-05-29,T-shirt,Clothing,2226.82,4,8907.28,Delhi,Net Banking
+ORD1048,2024-06-26,LED Bulb,Home,805.93,4,3223.72,Hyderabad,Debit Card
+ORD1049,2024-08-08,Water Bottle,Home,933.88,4,3735.52,Delhi,Debit Card
+ORD1050,2024-09-05,Backpack,Bags,4770.14,5,23850.7,Mumbai,Credit Card
+ORD1051,2025-05-09,T-shirt,Clothing,1143.83,5,5719.15,Kolkata,Credit Card
+ORD1052,2024-11-09,Sneakers,Footwear,772.45,1,772.45,Hyderabad,Cash on Delivery
+ORD1053,2025-01-02,Echo Dot,Electronics,2501.92,3,7505.76,Delhi,Net Banking
+ORD1054,2025-02-25,Fire TV Stick,Electronics,1011.12,4,4044.48,Chennai,Debit Card
+ORD1055,2025-04-05,Echo Dot,Electronics,3583.78,1,3583.78,Delhi,Debit Card
+ORD1056,2025-05-04,Kindle,Electronics,2529.31,3,7587.93,Mumbai,Cash on Delivery
+ORD1057,2024-09-13,Laptop Sleeve,Accessories,485.9,2,971.8,Bangalore,UPI
+ORD1058,2025-05-01,Echo Dot,Electronics,1294.49,4,5177.96,Mumbai,Debit Card
+ORD1059,2025-02-27,Laptop Sleeve,Accessories,591.98,5,2959.9,Bangalore,Credit Card
+ORD1060,2024-06-28,T-shirt,Clothing,4195.85,5,20979.25,Pune,Cash on Delivery
+ORD1061,2025-05-01,LED Bulb,Home,3177.03,4,12708.12,Chennai,Debit Card
+ORD1062,2024-10-27,Notebook,Stationery,1883.71,2,3767.42,Delhi,Credit Card
+ORD1063,2024-11-26,Water Bottle,Home,391.58,5,1957.9,Kolkata,Cash on Delivery
+ORD1064,2024-06-21,Echo Dot,Electronics,1974.13,1,1974.13,Mumbai,Credit Card
+ORD1065,2024-10-26,Laptop Sleeve,Accessories,770.13,1,770.13,Chennai,Cash on Delivery
+ORD1066,2024-07-22,Backpack,Bags,966.58,3,2899.74,Pune,Net Banking
+ORD1067,2024-07-17,Fire TV Stick,Electronics,4359.28,2,8718.56,Ahmedabad,UPI
+ORD1068,2025-03-16,LED Bulb,Home,663.31,2,1326.62,Bangalore,Net Banking
+ORD1069,2025-05-07,Laptop Sleeve,Accessories,175.85,2,351.7,Ahmedabad,Debit Card
+ORD1070,2025-03-05,Laptop Sleeve,Accessories,4216.15,1,4216.15,Ahmedabad,Net Banking
+ORD1071,2024-07-16,T-shirt,Clothing,208.15,4,832.6,Kolkata,Debit Card
+ORD1072,2025-05-25,T-shirt,Clothing,1685.08,4,6740.32,Kolkata,Debit Card
+ORD1073,2024-07-02,Kindle,Electronics,2174.18,2,4348.36,Chennai,UPI
+ORD1074,2025-01-27,LED Bulb,Home,1203.47,5,6017.35,Ahmedabad,Net Banking
+ORD1075,2025-01-29,Sneakers,Footwear,938.46,2,1876.92,Delhi,Debit Card
+ORD1076,2025-05-25,LED Bulb,Home,3737.2,3,11211.6,Mumbai,Credit Card
+ORD1077,2024-09-01,Backpack,Bags,4931.06,5,24655.3,Delhi,UPI
+ORD1078,2024-10-01,Sneakers,Footwear,4845.81,4,19383.24,Delhi,Cash on Delivery
+ORD1079,2024-07-25,Laptop Sleeve,Accessories,3758.52,5,18792.6,Mumbai,UPI
+ORD1080,2024-08-21,LED Bulb,Home,675.34,5,3376.7,Bangalore,UPI
+ORD1081,2024-09-02,Notebook,Stationery,541.11,1,541.11,Hyderabad,Debit Card
+ORD1082,2025-02-27,Backpack,Bags,2042.2,4,8168.8,Chennai,Net Banking
+ORD1083,2025-01-01,Water Bottle,Home,1217.44,2,2434.88,Chennai,Credit Card
+ORD1084,2025-02-21,Laptop Sleeve,Accessories,3524.34,2,7048.68,Mumbai,UPI
+ORD1085,2024-08-04,LED Bulb,Home,2938.21,2,5876.42,Kolkata,Debit Card
+ORD1086,2025-05-29,Water Bottle,Home,3875.18,2,7750.36,Bangalore,Debit Card
+ORD1087,2025-01-06,Kindle,Electronics,1904.01,3,5712.03,Ahmedabad,Net Banking
+ORD1088,2024-12-08,Backpack,Bags,4890.23,1,4890.23,Hyderabad,Credit Card
+ORD1089,2025-02-25,Kindle,Electronics,2047.87,1,2047.87,Hyderabad,Debit Card
+ORD1090,2025-03-08,Fire TV Stick,Electronics,4234.04,2,8468.08,Ahmedabad,Debit Card
+ORD1091,2024-07-06,Backpack,Bags,870.29,3,2610.87,Bangalore,Credit Card
+ORD1092,2025-05-27,Laptop Sleeve,Accessories,560.54,3,1681.62,Ahmedabad,UPI
+ORD1093,2025-03-19,Echo Dot,Electronics,3842.92,5,19214.6,Hyderabad,Cash on Delivery
+ORD1094,2025-03-22,Sneakers,Footwear,119.38,1,119.38,Ahmedabad,Net Banking
+ORD1095,2024-12-21,Fire TV Stick,Electronics,1655.79,4,6623.16,Ahmedabad,Net Banking
+ORD1096,2025-04-05,Backpack,Bags,3293.36,2,6586.72,Ahmedabad,Cash on Delivery
+ORD1097,2024-08-11,Sneakers,Footwear,1797.45,1,1797.45,Kolkata,UPI
+ORD1098,2024-10-06,Notebook,Stationery,1641.23,1,1641.23,Bangalore,Cash on Delivery
+ORD1099,2024-11-13,T-shirt,Clothing,4339.99,4,17359.96,Bangalore,Debit Card
+ORD1100,2024-12-20,Echo Dot,Electronics,4768.23,3,14304.69,Bangalore,Credit Card
+ORD1101,2025-05-21,T-shirt,Clothing,3727.89,4,14911.56,Pune,Debit Card
+ORD1102,2024-12-05,Laptop Sleeve,Accessories,1164.56,4,4658.24,Delhi,Net Banking
+ORD1103,2025-05-18,Notebook,Stationery,4031.71,2,8063.42,Kolkata,Debit Card
+ORD1104,2024-06-17,T-shirt,Clothing,4324.05,4,17296.2,Hyderabad,Cash on Delivery
+ORD1105,2024-10-17,Notebook,Stationery,2314.33,3,6942.99,Kolkata,Credit Card
+ORD1106,2024-10-30,Echo Dot,Electronics,2409.11,1,2409.11,Chennai,Credit Card
+ORD1107,2025-01-16,Fire TV Stick,Electronics,3044.04,1,3044.04,Chennai,Net Banking
+ORD1108,2024-07-16,LED Bulb,Home,3638.47,4,14553.88,Mumbai,UPI
+ORD1109,2024-09-14,Sneakers,Footwear,297.13,4,1188.52,Hyderabad,Cash on Delivery
+ORD1110,2025-05-17,Sneakers,Footwear,3688.12,3,11064.36,Chennai,Net Banking
+ORD1111,2024-07-22,Kindle,Electronics,212.33,2,424.66,Bangalore,Net Banking
+ORD1112,2024-11-06,Kindle,Electronics,1525.72,3,4577.16,Mumbai,Net Banking
+ORD1113,2025-06-13,Laptop Sleeve,Accessories,4949.07,5,24745.35,Mumbai,Debit Card
+ORD1114,2024-10-23,Fire TV Stick,Electronics,1876.47,2,3752.94,Hyderabad,Net Banking
+ORD1115,2024-07-07,Fire TV Stick,Electronics,474.75,1,474.75,Hyderabad,Credit Card
+ORD1116,2025-05-27,Water Bottle,Home,1684.85,3,5054.55,Pune,Debit Card
+ORD1117,2024-12-18,Backpack,Bags,2860.76,2,5721.52,Ahmedabad,Credit Card
+ORD1118,2024-07-07,Sneakers,Footwear,4361.78,4,17447.12,Delhi,Credit Card
+ORD1119,2024-09-13,Backpack,Bags,2992.91,2,5985.82,Delhi,Net Banking
+ORD1120,2024-09-09,Backpack,Bags,1437.56,5,7187.8,Ahmedabad,UPI
+ORD1121,2025-02-01,Kindle,Electronics,4003.34,2,8006.68,Pune,Debit Card
+ORD1122,2025-05-29,Sneakers,Footwear,214.72,1,214.72,Kolkata,Cash on Delivery
+ORD1123,2025-04-07,Sneakers,Footwear,3755.91,4,15023.64,Delhi,Debit Card
+ORD1124,2025-03-05,Kindle,Electronics,1644.94,3,4934.82,Hyderabad,Credit Card
+ORD1125,2024-10-03,LED Bulb,Home,2582.55,5,12912.75,Pune,Debit Card
+ORD1126,2024-07-14,Laptop Sleeve,Accessories,4360.88,2,8721.76,Hyderabad,Net Banking
+ORD1127,2025-06-07,Kindle,Electronics,165.5,1,165.5,Pune,Cash on Delivery
+ORD1128,2024-11-18,Sneakers,Footwear,549.71,3,1649.13,Ahmedabad,Cash on Delivery
+ORD1129,2025-06-04,Fire TV Stick,Electronics,1604.46,3,4813.38,Mumbai,UPI
+ORD1130,2024-08-02,Water Bottle,Home,767.37,1,767.37,Hyderabad,Net Banking
+ORD1131,2025-04-04,Echo Dot,Electronics,1892.4,3,5677.2,Delhi,UPI
+ORD1132,2024-09-27,Notebook,Stationery,3752.71,4,15010.84,Pune,Debit Card
+ORD1133,2024-06-17,Fire TV Stick,Electronics,3788.61,5,18943.05,Kolkata,Debit Card
+ORD1134,2025-04-03,Echo Dot,Electronics,4231.35,4,16925.4,Delhi,Net Banking
+ORD1135,2024-09-13,Sneakers,Footwear,3066.55,1,3066.55,Chennai,Net Banking
+ORD1136,2025-04-10,Notebook,Stationery,4830.88,3,14492.64,Pune,Net Banking
+ORD1137,2024-08-05,Laptop Sleeve,Accessories,3740.81,5,18704.05,Hyderabad,Credit Card
+ORD1138,2024-09-12,LED Bulb,Home,4242.73,5,21213.65,Chennai,Debit Card
+ORD1139,2024-11-19,Sneakers,Footwear,2682.21,1,2682.21,Hyderabad,Credit Card
+ORD1140,2024-11-14,Sneakers,Footwear,3262.57,5,16312.85,Chennai,Cash on Delivery
+ORD1141,2025-05-20,Notebook,Stationery,936.02,1,936.02,Pune,Debit Card
+ORD1142,2024-06-29,Backpack,Bags,3404.37,4,13617.48,Kolkata,UPI
+ORD1143,2025-05-14,Fire TV Stick,Electronics,1914.41,1,1914.41,Mumbai,UPI
+ORD1144,2025-05-23,Laptop Sleeve,Accessories,3725.95,3,11177.85,Ahmedabad,Cash on Delivery
+ORD1145,2025-04-11,Fire TV Stick,Electronics,3175.33,4,12701.32,Bangalore,Cash on Delivery
+ORD1146,2024-09-16,Echo Dot,Electronics,1991.84,2,3983.68,Hyderabad,Debit Card
+ORD1147,2025-05-21,Water Bottle,Home,323.5,3,970.5,Chennai,Cash on Delivery
+ORD1148,2025-02-09,LED Bulb,Home,984.44,5,4922.2,Delhi,Net Banking
+ORD1149,2024-11-17,Notebook,Stationery,1670.43,5,8352.15,Delhi,Net Banking
+ORD1150,2025-01-26,Laptop Sleeve,Accessories,3373.21,4,13492.84,Bangalore,Credit Card
+ORD1151,2024-12-27,LED Bulb,Home,1205.57,4,4822.28,Mumbai,Debit Card
+ORD1152,2025-04-18,T-shirt,Clothing,2296.1,2,4592.2,Pune,Debit Card
+ORD1153,2025-03-31,Sneakers,Footwear,2482.95,1,2482.95,Kolkata,Net Banking
+ORD1154,2025-05-30,Echo Dot,Electronics,1860.17,2,3720.34,Delhi,Credit Card
+ORD1155,2025-02-12,Echo Dot,Electronics,2308.47,5,11542.35,Hyderabad,UPI
+ORD1156,2025-01-18,Water Bottle,Home,995.18,5,4975.9,Hyderabad,Net Banking
+ORD1157,2024-06-26,Fire TV Stick,Electronics,1691.46,1,1691.46,Chennai,Credit Card
+ORD1158,2025-02-11,Laptop Sleeve,Accessories,3545.11,3,10635.33,Kolkata,Net Banking
+ORD1159,2025-01-23,LED Bulb,Home,4497.86,4,17991.44,Pune,Cash on Delivery
+ORD1160,2024-08-23,Notebook,Stationery,4389.46,2,8778.92,Bangalore,Net Banking
+ORD1161,2024-11-05,Fire TV Stick,Electronics,777.96,3,2333.88,Ahmedabad,Cash on Delivery
+ORD1162,2024-09-08,T-shirt,Clothing,419.62,5,2098.1,Chennai,Debit Card
+ORD1163,2025-05-05,Notebook,Stationery,4270.85,1,4270.85,Hyderabad,Debit Card
+ORD1164,2024-06-25,Fire TV Stick,Electronics,816.7,1,816.7,Chennai,Credit Card
+ORD1165,2025-05-17,Kindle,Electronics,1729.4,5,8647.0,Chennai,Debit Card
+ORD1166,2024-06-15,Sneakers,Footwear,870.13,3,2610.39,Bangalore,Credit Card
+ORD1167,2024-08-21,Echo Dot,Electronics,1283.69,4,5134.76,Delhi,Debit Card
+ORD1168,2025-06-07,Backpack,Bags,3243.94,2,6487.88,Chennai,Net Banking
+ORD1169,2024-09-17,Water Bottle,Home,774.96,4,3099.84,Chennai,Net Banking
+ORD1170,2025-01-19,Laptop Sleeve,Accessories,185.25,1,185.25,Hyderabad,Debit Card
+ORD1171,2024-09-09,Kindle,Electronics,812.11,5,4060.55,Mumbai,Credit Card
+ORD1172,2024-08-01,Sneakers,Footwear,2996.09,2,5992.18,Delhi,Credit Card
+ORD1173,2025-04-18,Fire TV Stick,Electronics,4127.4,3,12382.2,Mumbai,Cash on Delivery
+ORD1174,2025-02-07,Kindle,Electronics,1401.18,2,2802.36,Delhi,UPI
+ORD1175,2024-12-14,Echo Dot,Electronics,4719.59,4,18878.36,Bangalore,Net Banking
+ORD1176,2024-07-19,Fire TV Stick,Electronics,2065.02,4,8260.08,Kolkata,Debit Card
+ORD1177,2024-08-23,T-shirt,Clothing,2438.66,4,9754.64,Mumbai,Debit Card
+ORD1178,2025-03-10,Laptop Sleeve,Accessories,2771.03,1,2771.03,Delhi,Debit Card
+ORD1179,2024-12-29,Sneakers,Footwear,2525.03,1,2525.03,Pune,Debit Card
+ORD1180,2025-03-27,Notebook,Stationery,2082.32,5,10411.6,Delhi,Cash on Delivery
+ORD1181,2025-02-08,Kindle,Electronics,1355.86,1,1355.86,Kolkata,Credit Card
+ORD1182,2025-02-19,Sneakers,Footwear,2682.9,4,10731.6,Chennai,UPI
+ORD1183,2024-06-29,T-shirt,Clothing,4615.04,4,18460.16,Mumbai,UPI
+ORD1184,2025-01-08,LED Bulb,Home,3701.63,3,11104.89,Chennai,Debit Card
+ORD1185,2024-12-12,Sneakers,Footwear,4191.1,5,20955.5,Mumbai,Credit Card
+ORD1186,2025-03-04,Notebook,Stationery,2691.97,5,13459.85,Kolkata,Debit Card
+ORD1187,2024-08-11,Laptop Sleeve,Accessories,2370.32,3,7110.96,Pune,Cash on Delivery
+ORD1188,2025-02-27,Water Bottle,Home,2979.96,4,11919.84,Bangalore,Credit Card
+ORD1189,2025-02-01,LED Bulb,Home,2741.21,5,13706.05,Bangalore,Net Banking
+ORD1190,2024-09-04,T-shirt,Clothing,3849.84,1,3849.84,Chennai,UPI
+ORD1191,2025-03-17,Echo Dot,Electronics,3493.43,5,17467.15,Chennai,Net Banking
+ORD1192,2024-09-13,LED Bulb,Home,215.56,5,1077.8,Kolkata,Cash on Delivery
+ORD1193,2025-01-16,Notebook,Stationery,2756.18,3,8268.54,Bangalore,Cash on Delivery
+ORD1194,2024-11-18,Kindle,Electronics,2730.09,1,2730.09,Ahmedabad,Net Banking
+ORD1195,2025-03-05,Backpack,Bags,4276.63,2,8553.26,Kolkata,Cash on Delivery
+ORD1196,2024-10-11,Echo Dot,Electronics,4381.56,2,8763.12,Bangalore,Debit Card
+ORD1197,2025-05-09,Water Bottle,Home,2399.68,1,2399.68,Mumbai,Debit Card
+ORD1198,2025-03-16,Laptop Sleeve,Accessories,2963.2,1,2963.2,Ahmedabad,Debit Card
+ORD1199,2024-12-26,Kindle,Electronics,4951.41,2,9902.82,Ahmedabad,Net Banking
+ORD1200,2024-10-04,Notebook,Stationery,4478.3,1,4478.3,Ahmedabad,UPI
+ORD1201,2025-02-08,Laptop Sleeve,Accessories,4142.77,5,20713.85,Kolkata,Cash on Delivery
+ORD1202,2025-01-17,Fire TV Stick,Electronics,1307.91,2,2615.82,Mumbai,Debit Card
+ORD1203,2025-01-16,Kindle,Electronics,178.26,3,534.78,Mumbai,Cash on Delivery
+ORD1204,2025-05-09,Echo Dot,Electronics,2605.48,2,5210.96,Chennai,Credit Card
+ORD1205,2024-07-03,Fire TV Stick,Electronics,498.38,1,498.38,Delhi,Credit Card
+ORD1206,2024-10-14,Fire TV Stick,Electronics,4357.63,4,17430.52,Pune,Net Banking
+ORD1207,2025-05-15,Sneakers,Footwear,4081.72,2,8163.44,Hyderabad,Cash on Delivery
+ORD1208,2025-02-15,Echo Dot,Electronics,3047.22,4,12188.88,Bangalore,Cash on Delivery
+ORD1209,2024-06-22,Fire TV Stick,Electronics,1010.93,4,4043.72,Pune,Debit Card
+ORD1210,2024-12-26,Kindle,Electronics,157.77,2,315.54,Delhi,Credit Card
+ORD1211,2024-09-08,T-shirt,Clothing,1186.0,1,1186.0,Mumbai,UPI
+ORD1212,2025-03-24,Echo Dot,Electronics,1427.03,2,2854.06,Pune,Debit Card
+ORD1213,2025-04-23,Laptop Sleeve,Accessories,3986.61,5,19933.05,Delhi,Debit Card
+ORD1214,2024-10-21,Echo Dot,Electronics,1887.61,1,1887.61,Bangalore,Net Banking
+ORD1215,2024-09-07,Sneakers,Footwear,4181.03,3,12543.09,Hyderabad,UPI
+ORD1216,2025-03-17,LED Bulb,Home,3286.32,4,13145.28,Ahmedabad,Credit Card
+ORD1217,2024-11-26,Kindle,Electronics,1185.8,1,1185.8,Ahmedabad,UPI
+ORD1218,2025-05-21,T-shirt,Clothing,1123.91,1,1123.91,Pune,Credit Card
+ORD1219,2025-04-21,Fire TV Stick,Electronics,4258.34,4,17033.36,Pune,Cash on Delivery
+ORD1220,2024-09-22,Echo Dot,Electronics,1769.96,3,5309.88,Chennai,Credit Card
+ORD1221,2025-01-06,Backpack,Bags,355.63,1,355.63,Delhi,Cash on Delivery
+ORD1222,2025-01-13,Notebook,Stationery,2785.18,3,8355.54,Ahmedabad,Credit Card
+ORD1223,2024-12-18,Backpack,Bags,1794.36,3,5383.08,Hyderabad,Net Banking
+ORD1224,2024-07-31,Echo Dot,Electronics,2965.88,3,8897.64,Kolkata,UPI
+ORD1225,2024-12-05,Echo Dot,Electronics,2106.81,1,2106.81,Chennai,Debit Card
+ORD1226,2025-05-05,Backpack,Bags,417.85,5,2089.25,Pune,Credit Card
+ORD1227,2024-08-06,Notebook,Stationery,3968.02,5,19840.1,Chennai,Net Banking
+ORD1228,2025-04-15,Notebook,Stationery,4333.15,3,12999.45,Kolkata,Debit Card
+ORD1229,2024-11-24,Water Bottle,Home,3427.38,1,3427.38,Chennai,Cash on Delivery
+ORD1230,2024-10-05,Backpack,Bags,1690.83,5,8454.15,Bangalore,Debit Card
+ORD1231,2024-12-09,T-shirt,Clothing,2176.19,1,2176.19,Ahmedabad,Net Banking
+ORD1232,2025-04-16,Fire TV Stick,Electronics,3688.95,5,18444.75,Pune,Net Banking
+ORD1233,2025-01-12,Laptop Sleeve,Accessories,1678.65,5,8393.25,Bangalore,Cash on Delivery
+ORD1234,2025-06-10,Fire TV Stick,Electronics,3261.7,1,3261.7,Kolkata,Debit Card
+ORD1235,2024-08-17,LED Bulb,Home,722.67,3,2168.01,Chennai,Cash on Delivery
+ORD1236,2025-04-06,Notebook,Stationery,964.07,1,964.07,Hyderabad,UPI
+ORD1237,2024-11-01,Fire TV Stick,Electronics,2330.43,4,9321.72,Bangalore,UPI
+ORD1238,2025-03-06,Notebook,Stationery,4949.16,1,4949.16,Bangalore,Net Banking
+ORD1239,2024-10-24,Backpack,Bags,2784.76,1,2784.76,Ahmedabad,Net Banking
+ORD1240,2025-01-17,LED Bulb,Home,1016.31,4,4065.24,Ahmedabad,Credit Card
+ORD1241,2024-10-31,T-shirt,Clothing,1225.62,4,4902.48,Ahmedabad,Debit Card
+ORD1242,2024-07-12,Water Bottle,Home,102.15,1,102.15,Bangalore,Debit Card
+ORD1243,2024-12-17,Notebook,Stationery,577.46,3,1732.38,Pune,Debit Card
+ORD1244,2025-03-18,LED Bulb,Home,4011.06,3,12033.18,Chennai,Net Banking
+ORD1245,2025-04-13,Backpack,Bags,2948.56,2,5897.12,Hyderabad,UPI
+ORD1246,2024-09-16,Echo Dot,Electronics,1837.13,3,5511.39,Mumbai,Cash on Delivery
+ORD1247,2024-08-20,Backpack,Bags,4525.05,2,9050.1,Kolkata,Debit Card
+ORD1248,2025-06-04,Notebook,Stationery,3761.69,3,11285.07,Mumbai,Credit Card
+ORD1249,2024-10-20,T-shirt,Clothing,1569.52,1,1569.52,Chennai,UPI
+ORD1250,2025-04-12,Echo Dot,Electronics,1249.08,2,2498.16,Delhi,Net Banking
+ORD1251,2024-07-29,LED Bulb,Home,299.87,4,1199.48,Ahmedabad,Net Banking
+ORD1252,2024-07-07,T-shirt,Clothing,2385.45,3,7156.35,Chennai,Net Banking
+ORD1253,2025-03-23,Fire TV Stick,Electronics,387.34,2,774.68,Bangalore,Net Banking
+ORD1254,2024-10-31,Notebook,Stationery,383.93,4,1535.72,Bangalore,Debit Card
+ORD1255,2024-08-26,Water Bottle,Home,2421.68,1,2421.68,Chennai,Credit Card
+ORD1256,2024-06-28,Fire TV Stick,Electronics,1912.57,3,5737.71,Delhi,UPI
+ORD1257,2024-11-18,LED Bulb,Home,1948.87,1,1948.87,Delhi,Cash on Delivery
+ORD1258,2024-09-16,Laptop Sleeve,Accessories,3328.22,5,16641.1,Pune,UPI
+ORD1259,2025-03-14,Water Bottle,Home,3080.1,5,15400.5,Bangalore,Cash on Delivery
+ORD1260,2025-04-21,Kindle,Electronics,1415.64,1,1415.64,Ahmedabad,Credit Card
+ORD1261,2024-11-14,Notebook,Stationery,1796.36,2,3592.72,Bangalore,Credit Card
+ORD1262,2024-11-10,Echo Dot,Electronics,1118.26,4,4473.04,Delhi,UPI
+ORD1263,2025-04-14,Echo Dot,Electronics,4282.11,3,12846.33,Ahmedabad,Debit Card
+ORD1264,2025-04-08,Laptop Sleeve,Accessories,2710.46,4,10841.84,Chennai,UPI
+ORD1265,2025-01-12,Kindle,Electronics,4587.45,3,13762.35,Kolkata,Net Banking
+ORD1266,2025-01-18,Echo Dot,Electronics,3558.96,3,10676.88,Mumbai,Net Banking
+ORD1267,2024-11-11,Laptop Sleeve,Accessories,732.8,5,3664.0,Mumbai,Debit Card
+ORD1268,2024-11-11,Kindle,Electronics,3997.38,3,11992.14,Ahmedabad,Debit Card
+ORD1269,2025-04-23,Notebook,Stationery,2456.74,3,7370.22,Chennai,Debit Card
+ORD1270,2024-11-18,Kindle,Electronics,1557.73,5,7788.65,Delhi,Credit Card
+ORD1271,2025-03-21,Backpack,Bags,1506.32,3,4518.96,Delhi,Debit Card
+ORD1272,2025-01-03,Backpack,Bags,1703.82,1,1703.82,Mumbai,UPI
+ORD1273,2024-10-07,Notebook,Stationery,1454.91,3,4364.73,Kolkata,UPI
+ORD1274,2024-08-16,Sneakers,Footwear,4333.06,4,17332.24,Hyderabad,Cash on Delivery
+ORD1275,2025-03-17,Notebook,Stationery,2010.35,3,6031.05,Ahmedabad,UPI
+ORD1276,2024-07-18,Water Bottle,Home,3033.32,1,3033.32,Delhi,Cash on Delivery
+ORD1277,2025-02-07,T-shirt,Clothing,2947.41,2,5894.82,Kolkata,Net Banking
+ORD1278,2025-02-10,LED Bulb,Home,2736.1,2,5472.2,Pune,Net Banking
+ORD1279,2024-11-06,Kindle,Electronics,429.36,2,858.72,Pune,Credit Card
+ORD1280,2024-10-27,T-shirt,Clothing,439.95,3,1319.85,Mumbai,Cash on Delivery
+ORD1281,2025-03-07,Echo Dot,Electronics,4006.54,5,20032.7,Delhi,UPI
+ORD1282,2024-12-19,Backpack,Bags,151.55,4,606.2,Mumbai,UPI
+ORD1283,2025-05-28,Sneakers,Footwear,2500.01,4,10000.04,Bangalore,Credit Card
+ORD1284,2024-08-29,Kindle,Electronics,2482.56,4,9930.24,Pune,Debit Card
+ORD1285,2025-01-29,LED Bulb,Home,3659.17,5,18295.85,Bangalore,Net Banking
+ORD1286,2024-08-03,Notebook,Stationery,4363.55,2,8727.1,Ahmedabad,Cash on Delivery
+ORD1287,2025-06-11,Sneakers,Footwear,213.53,4,854.12,Chennai,Credit Card
+ORD1288,2024-07-09,Notebook,Stationery,4059.91,3,12179.73,Bangalore,Cash on Delivery
+ORD1289,2024-10-17,Sneakers,Footwear,1573.44,5,7867.2,Pune,Debit Card
+ORD1290,2025-02-06,Backpack,Bags,1905.03,3,5715.09,Delhi,Credit Card
+ORD1291,2024-10-29,Echo Dot,Electronics,1260.77,3,3782.31,Hyderabad,Credit Card
+ORD1292,2024-07-16,Laptop Sleeve,Accessories,4290.07,2,8580.14,Ahmedabad,UPI
+ORD1293,2024-07-12,Sneakers,Footwear,4637.55,2,9275.1,Mumbai,Credit Card
+ORD1294,2025-02-18,Water Bottle,Home,1874.79,2,3749.58,Hyderabad,UPI
+ORD1295,2024-08-28,Laptop Sleeve,Accessories,2521.24,2,5042.48,Hyderabad,Cash on Delivery
+ORD1296,2024-07-25,T-shirt,Clothing,3766.66,5,18833.3,Chennai,Credit Card
+ORD1297,2025-02-09,Notebook,Stationery,1071.11,5,5355.55,Mumbai,UPI
+ORD1298,2025-01-15,Laptop Sleeve,Accessories,4203.77,3,12611.31,Delhi,Cash on Delivery
+ORD1299,2025-06-12,Backpack,Bags,2211.86,1,2211.86,Bangalore,Cash on Delivery
+ORD1300,2024-10-14,Laptop Sleeve,Accessories,4200.39,4,16801.56,Bangalore,UPI
+ORD1301,2024-08-27,Echo Dot,Electronics,1342.35,4,5369.4,Kolkata,Net Banking
+ORD1302,2024-09-24,Echo Dot,Electronics,504.24,4,2016.96,Chennai,Cash on Delivery
+ORD1303,2024-08-18,Water Bottle,Home,542.17,1,542.17,Chennai,Cash on Delivery
+ORD1304,2024-07-13,LED Bulb,Home,4933.46,2,9866.92,Chennai,Credit Card
+ORD1305,2025-04-12,Backpack,Bags,4481.56,4,17926.24,Ahmedabad,UPI
+ORD1306,2025-01-28,T-shirt,Clothing,3961.63,2,7923.26,Kolkata,Debit Card
+ORD1307,2025-04-28,Kindle,Electronics,4868.6,3,14605.8,Pune,UPI
+ORD1308,2025-05-29,Notebook,Stationery,1588.51,4,6354.04,Chennai,UPI
+ORD1309,2024-08-01,Fire TV Stick,Electronics,461.47,5,2307.35,Hyderabad,Debit Card
+ORD1310,2024-07-18,Backpack,Bags,2303.04,4,9212.16,Bangalore,Debit Card
+ORD1311,2025-06-06,Kindle,Electronics,910.16,4,3640.64,Chennai,Net Banking
+ORD1312,2025-03-31,Notebook,Stationery,2354.09,5,11770.45,Delhi,UPI
+ORD1313,2024-10-07,LED Bulb,Home,4983.86,1,4983.86,Bangalore,Cash on Delivery
+ORD1314,2025-05-04,Fire TV Stick,Electronics,3672.62,2,7345.24,Ahmedabad,UPI
+ORD1315,2024-07-25,LED Bulb,Home,4043.92,5,20219.6,Delhi,Cash on Delivery
+ORD1316,2025-01-23,Sneakers,Footwear,3480.45,4,13921.8,Delhi,Debit Card
+ORD1317,2025-02-22,Water Bottle,Home,4392.52,5,21962.6,Kolkata,Cash on Delivery
+ORD1318,2025-04-10,Sneakers,Footwear,546.77,4,2187.08,Bangalore,Net Banking
+ORD1319,2024-10-13,T-shirt,Clothing,601.47,1,601.47,Pune,Debit Card
+ORD1320,2024-10-15,Laptop Sleeve,Accessories,509.28,5,2546.4,Delhi,UPI
+ORD1321,2024-06-22,Fire TV Stick,Electronics,1546.09,4,6184.36,Ahmedabad,Net Banking
+ORD1322,2024-09-09,T-shirt,Clothing,2022.48,5,10112.4,Ahmedabad,Debit Card
+ORD1323,2024-10-19,Backpack,Bags,125.5,1,125.5,Mumbai,Credit Card
+ORD1324,2024-12-15,Echo Dot,Electronics,3089.18,2,6178.36,Chennai,Cash on Delivery
+ORD1325,2024-10-16,Water Bottle,Home,190.76,1,190.76,Hyderabad,Credit Card
+ORD1326,2025-04-10,T-shirt,Clothing,4256.21,4,17024.84,Pune,Cash on Delivery
+ORD1327,2024-08-16,Echo Dot,Electronics,4751.93,1,4751.93,Delhi,Net Banking
+ORD1328,2025-03-09,Water Bottle,Home,1586.82,4,6347.28,Chennai,Credit Card
+ORD1329,2024-12-09,Laptop Sleeve,Accessories,1018.7,4,4074.8,Mumbai,Net Banking
+ORD1330,2024-07-07,Notebook,Stationery,3412.67,2,6825.34,Chennai,Net Banking
+ORD1331,2024-08-30,Backpack,Bags,2004.74,3,6014.22,Pune,UPI
+ORD1332,2024-11-28,Echo Dot,Electronics,753.7,2,1507.4,Mumbai,Debit Card
+ORD1333,2024-06-14,Sneakers,Footwear,2349.77,4,9399.08,Kolkata,UPI
+ORD1334,2024-12-04,Echo Dot,Electronics,2085.52,4,8342.08,Hyderabad,Cash on Delivery
+ORD1335,2025-01-20,Kindle,Electronics,4208.31,2,8416.62,Bangalore,Cash on Delivery
+ORD1336,2025-02-14,Fire TV Stick,Electronics,911.01,2,1822.02,Hyderabad,Cash on Delivery
+ORD1337,2025-04-19,Sneakers,Footwear,354.95,2,709.9,Pune,Debit Card
+ORD1338,2025-05-12,Sneakers,Footwear,4341.49,2,8682.98,Mumbai,Net Banking
+ORD1339,2024-09-30,Notebook,Stationery,549.95,3,1649.85,Mumbai,Debit Card
+ORD1340,2025-06-09,Laptop Sleeve,Accessories,2484.25,3,7452.75,Kolkata,Cash on Delivery
+ORD1341,2025-05-20,Water Bottle,Home,1116.99,2,2233.98,Ahmedabad,Cash on Delivery
+ORD1342,2025-02-17,T-shirt,Clothing,4332.89,4,17331.56,Kolkata,Debit Card
+ORD1343,2025-04-10,Kindle,Electronics,215.11,2,430.22,Delhi,Cash on Delivery
+ORD1344,2024-07-11,Fire TV Stick,Electronics,4992.44,3,14977.32,Kolkata,Cash on Delivery
+ORD1345,2024-08-12,Sneakers,Footwear,390.4,1,390.4,Hyderabad,Net Banking
+ORD1346,2024-12-28,LED Bulb,Home,2674.24,5,13371.2,Mumbai,Net Banking
+ORD1347,2024-07-12,Sneakers,Footwear,3990.34,2,7980.68,Kolkata,UPI
+ORD1348,2025-05-17,Backpack,Bags,2581.48,3,7744.44,Pune,UPI
+ORD1349,2025-05-25,Water Bottle,Home,2501.98,2,5003.96,Bangalore,Debit Card
+ORD1350,2025-02-11,Sneakers,Footwear,3127.32,3,9381.96,Pune,Debit Card
+ORD1351,2025-01-08,Water Bottle,Home,2549.01,2,5098.02,Delhi,Debit Card
+ORD1352,2025-02-25,Fire TV Stick,Electronics,2895.89,3,8687.67,Kolkata,UPI
+ORD1353,2024-12-27,Laptop Sleeve,Accessories,576.47,4,2305.88,Bangalore,Cash on Delivery
+ORD1354,2024-12-27,T-shirt,Clothing,4567.27,1,4567.27,Hyderabad,UPI
+ORD1355,2024-09-23,Sneakers,Footwear,2411.88,2,4823.76,Hyderabad,UPI
+ORD1356,2024-10-19,Fire TV Stick,Electronics,1978.68,1,1978.68,Hyderabad,Net Banking
+ORD1357,2025-05-20,Notebook,Stationery,1057.1,5,5285.5,Mumbai,Cash on Delivery
+ORD1358,2025-05-04,Sneakers,Footwear,4777.94,3,14333.82,Hyderabad,UPI
+ORD1359,2025-04-14,Sneakers,Footwear,589.32,5,2946.6,Mumbai,UPI
+ORD1360,2024-10-20,Kindle,Electronics,2778.29,3,8334.87,Pune,Credit Card
+ORD1361,2025-05-30,Laptop Sleeve,Accessories,3452.2,4,13808.8,Delhi,Credit Card
+ORD1362,2025-01-13,T-shirt,Clothing,107.44,4,429.76,Bangalore,Credit Card
+ORD1363,2024-10-13,Notebook,Stationery,3403.88,2,6807.76,Hyderabad,UPI
+ORD1364,2025-05-06,LED Bulb,Home,702.92,5,3514.6,Bangalore,Debit Card
+ORD1365,2024-12-13,Backpack,Bags,1403.5,5,7017.5,Bangalore,Debit Card
+ORD1366,2024-09-07,T-shirt,Clothing,4506.56,2,9013.12,Chennai,Debit Card
+ORD1367,2024-08-01,Water Bottle,Home,1804.57,4,7218.28,Ahmedabad,Cash on Delivery
+ORD1368,2024-11-06,T-shirt,Clothing,4181.79,4,16727.16,Kolkata,Credit Card
+ORD1369,2025-04-07,Laptop Sleeve,Accessories,1174.87,2,2349.74,Delhi,UPI
+ORD1370,2024-08-10,T-shirt,Clothing,1239.29,2,2478.58,Hyderabad,Credit Card
+ORD1371,2025-03-30,Laptop Sleeve,Accessories,802.27,3,2406.81,Kolkata,UPI
+ORD1372,2024-09-27,LED Bulb,Home,3474.55,4,13898.2,Mumbai,UPI
+ORD1373,2024-08-01,Laptop Sleeve,Accessories,959.66,1,959.66,Pune,UPI
+ORD1374,2024-11-22,T-shirt,Clothing,2482.3,4,9929.2,Pune,Credit Card
+ORD1375,2024-09-08,Sneakers,Footwear,4034.39,4,16137.56,Delhi,Debit Card
+ORD1376,2024-11-01,Water Bottle,Home,4048.67,3,12146.01,Bangalore,Debit Card
+ORD1377,2025-02-01,Kindle,Electronics,4681.63,4,18726.52,Mumbai,Debit Card
+ORD1378,2025-05-04,Echo Dot,Electronics,4060.95,5,20304.75,Ahmedabad,Cash on Delivery
+ORD1379,2024-07-01,Notebook,Stationery,1264.77,4,5059.08,Delhi,Debit Card
+ORD1380,2024-06-17,Echo Dot,Electronics,3452.06,5,17260.3,Hyderabad,Debit Card
+ORD1381,2025-02-01,Kindle,Electronics,1042.95,4,4171.8,Ahmedabad,Cash on Delivery
+ORD1382,2025-05-25,Notebook,Stationery,1101.87,1,1101.87,Mumbai,Debit Card
+ORD1383,2024-10-07,LED Bulb,Home,2704.97,2,5409.94,Pune,Cash on Delivery
+ORD1384,2024-12-06,Sneakers,Footwear,4100.04,3,12300.12,Kolkata,UPI
+ORD1385,2024-12-04,Fire TV Stick,Electronics,2558.68,3,7676.04,Chennai,Credit Card
+ORD1386,2025-03-22,Sneakers,Footwear,1386.36,5,6931.8,Hyderabad,Cash on Delivery
+ORD1387,2025-04-19,Fire TV Stick,Electronics,2999.14,5,14995.7,Mumbai,Debit Card
+ORD1388,2024-11-24,T-shirt,Clothing,2131.72,5,10658.6,Bangalore,UPI
+ORD1389,2024-11-06,Fire TV Stick,Electronics,1326.95,5,6634.75,Bangalore,Credit Card
+ORD1390,2024-12-22,Echo Dot,Electronics,4125.2,4,16500.8,Delhi,UPI
+ORD1391,2025-04-14,T-shirt,Clothing,1104.06,5,5520.3,Kolkata,Net Banking
+ORD1392,2025-06-03,Backpack,Bags,3561.09,3,10683.27,Bangalore,Credit Card
+ORD1393,2024-11-28,Water Bottle,Home,674.11,4,2696.44,Hyderabad,Debit Card
+ORD1394,2024-07-02,Water Bottle,Home,609.67,4,2438.68,Pune,Debit Card
+ORD1395,2024-08-10,Kindle,Electronics,3287.48,4,13149.92,Chennai,UPI
+ORD1396,2025-03-15,Echo Dot,Electronics,4719.43,2,9438.86,Kolkata,Cash on Delivery
+ORD1397,2024-06-19,Kindle,Electronics,1004.21,3,3012.63,Hyderabad,Credit Card
+ORD1398,2024-07-08,T-shirt,Clothing,3299.77,1,3299.77,Bangalore,Debit Card
+ORD1399,2025-05-02,Backpack,Bags,1434.1,2,2868.2,Mumbai,Debit Card
+ORD1400,2024-07-25,Kindle,Electronics,1791.54,2,3583.08,Chennai,UPI
+ORD1401,2025-03-10,Kindle,Electronics,3879.54,4,15518.16,Hyderabad,Net Banking
+ORD1402,2024-12-09,Laptop Sleeve,Accessories,1346.64,1,1346.64,Hyderabad,Credit Card
+ORD1403,2025-01-27,Laptop Sleeve,Accessories,3751.92,3,11255.76,Chennai,Credit Card
+ORD1404,2024-10-14,Echo Dot,Electronics,3732.44,4,14929.76,Pune,UPI
+ORD1405,2024-08-31,LED Bulb,Home,1155.24,5,5776.2,Ahmedabad,Debit Card
+ORD1406,2025-02-09,T-shirt,Clothing,2811.55,3,8434.65,Ahmedabad,UPI
+ORD1407,2025-04-10,Fire TV Stick,Electronics,3286.9,5,16434.5,Mumbai,Debit Card
+ORD1408,2025-02-05,T-shirt,Clothing,1923.06,3,5769.18,Bangalore,Credit Card
+ORD1409,2025-02-12,Sneakers,Footwear,3683.3,2,7366.6,Bangalore,Net Banking
+ORD1410,2025-04-25,LED Bulb,Home,1668.31,1,1668.31,Kolkata,Debit Card
+ORD1411,2025-02-13,Water Bottle,Home,4175.82,1,4175.82,Pune,Debit Card
+ORD1412,2025-05-30,Fire TV Stick,Electronics,4846.73,5,24233.65,Chennai,UPI
+ORD1413,2025-03-06,Kindle,Electronics,2765.5,3,8296.5,Chennai,Net Banking
+ORD1414,2024-07-10,Backpack,Bags,4581.23,2,9162.46,Pune,Cash on Delivery
+ORD1415,2024-12-14,Fire TV Stick,Electronics,984.51,3,2953.53,Mumbai,Debit Card
+ORD1416,2024-09-04,Fire TV Stick,Electronics,4940.53,1,4940.53,Chennai,Credit Card
+ORD1417,2025-03-30,Laptop Sleeve,Accessories,489.78,5,2448.9,Hyderabad,Debit Card
+ORD1418,2024-10-18,Water Bottle,Home,1990.07,1,1990.07,Chennai,Debit Card
+ORD1419,2025-06-07,Laptop Sleeve,Accessories,2936.49,4,11745.96,Hyderabad,Net Banking
+ORD1420,2024-08-28,Notebook,Stationery,4715.4,2,9430.8,Delhi,UPI
+ORD1421,2025-05-21,Echo Dot,Electronics,4235.19,2,8470.38,Delhi,Credit Card
+ORD1422,2025-05-12,Notebook,Stationery,2608.37,3,7825.11,Chennai,Cash on Delivery
+ORD1423,2025-04-19,Laptop Sleeve,Accessories,3902.92,4,15611.68,Delhi,Debit Card
+ORD1424,2025-01-05,Backpack,Bags,4563.76,5,22818.8,Kolkata,Net Banking
+ORD1425,2024-09-15,T-shirt,Clothing,4203.02,3,12609.06,Kolkata,UPI
+ORD1426,2025-04-07,Backpack,Bags,2545.81,3,7637.43,Delhi,Debit Card
+ORD1427,2025-06-13,Water Bottle,Home,2102.91,1,2102.91,Ahmedabad,Debit Card
+ORD1428,2025-03-16,LED Bulb,Home,1161.07,1,1161.07,Ahmedabad,Cash on Delivery
+ORD1429,2024-07-18,Water Bottle,Home,1700.22,1,1700.22,Bangalore,Cash on Delivery
+ORD1430,2024-10-23,LED Bulb,Home,4260.34,3,12781.02,Pune,Debit Card
+ORD1431,2024-11-29,Laptop Sleeve,Accessories,4998.47,4,19993.88,Mumbai,Debit Card
+ORD1432,2024-11-29,Echo Dot,Electronics,4985.98,1,4985.98,Ahmedabad,Credit Card
+ORD1433,2024-09-02,Fire TV Stick,Electronics,4282.68,4,17130.72,Ahmedabad,Debit Card
+ORD1434,2025-05-28,Fire TV Stick,Electronics,434.12,3,1302.36,Hyderabad,Credit Card
+ORD1435,2024-11-11,Backpack,Bags,2008.88,5,10044.4,Chennai,UPI
+ORD1436,2025-03-24,Fire TV Stick,Electronics,1771.99,5,8859.95,Delhi,Cash on Delivery
+ORD1437,2024-08-29,Backpack,Bags,4302.72,2,8605.44,Pune,Debit Card
+ORD1438,2024-12-05,Backpack,Bags,2174.94,2,4349.88,Hyderabad,UPI
+ORD1439,2025-05-17,Echo Dot,Electronics,4310.92,4,17243.68,Mumbai,Debit Card
+ORD1440,2025-02-24,Notebook,Stationery,1226.35,1,1226.35,Hyderabad,Cash on Delivery
+ORD1441,2025-05-17,Sneakers,Footwear,4432.3,3,13296.9,Chennai,Credit Card
+ORD1442,2024-12-02,T-shirt,Clothing,1142.21,2,2284.42,Bangalore,Credit Card
+ORD1443,2025-02-13,Laptop Sleeve,Accessories,3969.29,5,19846.45,Chennai,Net Banking
+ORD1444,2024-09-19,Echo Dot,Electronics,210.94,3,632.82,Mumbai,Net Banking
+ORD1445,2025-03-17,LED Bulb,Home,1593.81,2,3187.62,Mumbai,Debit Card
+ORD1446,2024-07-07,Echo Dot,Electronics,3221.8,2,6443.6,Delhi,UPI
+ORD1447,2025-02-28,Kindle,Electronics,4123.74,3,12371.22,Delhi,Debit Card
+ORD1448,2025-03-08,Laptop Sleeve,Accessories,3077.33,3,9231.99,Pune,UPI
+ORD1449,2024-08-04,Echo Dot,Electronics,2428.87,5,12144.35,Delhi,Credit Card
+ORD1450,2024-09-06,Sneakers,Footwear,4953.17,5,24765.85,Chennai,UPI
+ORD1451,2025-01-22,LED Bulb,Home,824.33,2,1648.66,Chennai,Cash on Delivery
+ORD1452,2025-01-22,Fire TV Stick,Electronics,740.21,3,2220.63,Kolkata,Cash on Delivery
+ORD1453,2024-08-15,Laptop Sleeve,Accessories,741.58,4,2966.32,Hyderabad,Net Banking
+ORD1454,2024-08-27,Echo Dot,Electronics,2287.29,3,6861.87,Chennai,Net Banking
+ORD1455,2024-12-06,Kindle,Electronics,3179.62,3,9538.86,Pune,Credit Card
+ORD1456,2024-09-14,Water Bottle,Home,2670.76,5,13353.8,Ahmedabad,Credit Card
+ORD1457,2025-02-12,Notebook,Stationery,1882.01,2,3764.02,Pune,Debit Card
+ORD1458,2024-07-18,Notebook,Stationery,3667.04,4,14668.16,Kolkata,UPI
+ORD1459,2025-01-10,Kindle,Electronics,2109.13,1,2109.13,Pune,Debit Card
+ORD1460,2025-02-10,Sneakers,Footwear,2446.98,3,7340.94,Bangalore,Net Banking
+ORD1461,2025-05-16,Backpack,Bags,2502.72,5,12513.6,Kolkata,Net Banking
+ORD1462,2024-12-30,Echo Dot,Electronics,476.37,5,2381.85,Kolkata,UPI
+ORD1463,2024-10-14,Sneakers,Footwear,3734.84,2,7469.68,Chennai,Cash on Delivery
+ORD1464,2024-06-14,Echo Dot,Electronics,2436.28,2,4872.56,Mumbai,Credit Card
+ORD1465,2024-08-23,Sneakers,Footwear,3885.72,3,11657.16,Hyderabad,Credit Card
+ORD1466,2024-09-10,LED Bulb,Home,3644.26,3,10932.78,Hyderabad,UPI
+ORD1467,2024-10-21,Backpack,Bags,2135.36,5,10676.8,Delhi,Net Banking
+ORD1468,2025-05-29,Water Bottle,Home,3291.35,1,3291.35,Chennai,Cash on Delivery
+ORD1469,2024-09-22,LED Bulb,Home,2920.73,2,5841.46,Delhi,Debit Card
+ORD1470,2025-04-09,Kindle,Electronics,3839.41,5,19197.05,Ahmedabad,Cash on Delivery
+ORD1471,2025-01-28,Fire TV Stick,Electronics,2008.46,2,4016.92,Delhi,Debit Card
+ORD1472,2024-10-26,LED Bulb,Home,225.62,4,902.48,Bangalore,Credit Card
+ORD1473,2025-04-07,Water Bottle,Home,2518.05,5,12590.25,Ahmedabad,Cash on Delivery
+ORD1474,2024-08-01,Notebook,Stationery,2751.34,5,13756.7,Kolkata,UPI
+ORD1475,2024-08-20,Fire TV Stick,Electronics,1918.75,4,7675.0,Ahmedabad,UPI
+ORD1476,2024-07-05,LED Bulb,Home,3478.63,4,13914.52,Mumbai,Debit Card
+ORD1477,2025-03-02,Sneakers,Footwear,1746.69,5,8733.45,Kolkata,Net Banking
+ORD1478,2024-09-01,Water Bottle,Home,1871.56,3,5614.68,Ahmedabad,Net Banking
+ORD1479,2025-01-20,Echo Dot,Electronics,1012.49,2,2024.98,Kolkata,UPI
+ORD1480,2024-12-15,Fire TV Stick,Electronics,585.01,3,1755.03,Hyderabad,UPI
+ORD1481,2025-05-20,Laptop Sleeve,Accessories,1438.22,3,4314.66,Delhi,UPI
+ORD1482,2024-12-23,Notebook,Stationery,3034.43,3,9103.29,Ahmedabad,Cash on Delivery
+ORD1483,2024-09-15,Notebook,Stationery,3267.08,4,13068.32,Kolkata,UPI
+ORD1484,2024-12-10,T-shirt,Clothing,208.0,1,208.0,Chennai,Cash on Delivery
+ORD1485,2025-01-17,T-shirt,Clothing,3592.73,1,3592.73,Mumbai,Cash on Delivery
+ORD1486,2024-11-07,LED Bulb,Home,1238.5,3,3715.5,Bangalore,UPI
+ORD1487,2024-09-18,Echo Dot,Electronics,3109.06,1,3109.06,Kolkata,Cash on Delivery
+ORD1488,2024-11-30,Laptop Sleeve,Accessories,432.78,1,432.78,Hyderabad,Cash on Delivery
+ORD1489,2024-10-30,Sneakers,Footwear,4565.86,3,13697.58,Hyderabad,UPI
+ORD1490,2025-04-11,Water Bottle,Home,4198.17,4,16792.68,Ahmedabad,Net Banking
+ORD1491,2024-12-19,Laptop Sleeve,Accessories,2857.24,2,5714.48,Bangalore,Credit Card
+ORD1492,2024-06-25,Laptop Sleeve,Accessories,4900.89,1,4900.89,Delhi,Credit Card
+ORD1493,2024-06-24,T-shirt,Clothing,1022.33,2,2044.66,Hyderabad,UPI
+ORD1494,2025-03-09,Sneakers,Footwear,3179.74,4,12718.96,Mumbai,UPI
+ORD1495,2024-08-02,Fire TV Stick,Electronics,2988.46,4,11953.84,Ahmedabad,Credit Card
+ORD1496,2024-08-16,Sneakers,Footwear,4854.12,5,24270.6,Hyderabad,Net Banking
+ORD1497,2024-10-30,Echo Dot,Electronics,2091.56,3,6274.68,Bangalore,Net Banking
+ORD1498,2024-08-19,LED Bulb,Home,3345.0,2,6690.0,Bangalore,Net Banking
+ORD1499,2025-03-25,Laptop Sleeve,Accessories,2958.45,5,14792.25,Mumbai,Debit Card
+ORD1500,2025-05-24,Kindle,Electronics,3849.54,2,7699.08,Ahmedabad,Debit Card
+ORD1501,2024-10-13,Sneakers,Footwear,3633.31,2,7266.62,Mumbai,Debit Card
+ORD1502,2025-04-02,LED Bulb,Home,3865.35,2,7730.7,Delhi,UPI
+ORD1503,2025-05-16,Kindle,Electronics,3369.27,1,3369.27,Bangalore,Credit Card
+ORD1504,2025-03-06,Laptop Sleeve,Accessories,2829.16,1,2829.16,Delhi,Net Banking
+ORD1505,2025-02-04,Water Bottle,Home,823.89,4,3295.56,Ahmedabad,UPI
+ORD1506,2025-05-22,Echo Dot,Electronics,2774.84,1,2774.84,Bangalore,Debit Card
+ORD1507,2025-03-23,Echo Dot,Electronics,1974.89,2,3949.78,Chennai,UPI
+ORD1508,2024-10-16,Notebook,Stationery,3461.13,5,17305.65,Delhi,UPI
+ORD1509,2025-05-07,Notebook,Stationery,450.9,3,1352.7,Mumbai,Debit Card
+ORD1510,2024-11-18,Water Bottle,Home,3988.84,1,3988.84,Chennai,Net Banking
+ORD1511,2024-12-12,Sneakers,Footwear,3654.83,4,14619.32,Bangalore,Credit Card
+ORD1512,2025-01-07,Backpack,Bags,101.6,5,508.0,Ahmedabad,Credit Card
+ORD1513,2025-02-11,T-shirt,Clothing,1061.41,1,1061.41,Delhi,UPI
+ORD1514,2024-07-03,Kindle,Electronics,2130.89,5,10654.45,Chennai,Credit Card
+ORD1515,2024-08-28,Backpack,Bags,333.15,5,1665.75,Chennai,Credit Card
+ORD1516,2024-12-04,Sneakers,Footwear,570.94,2,1141.88,Hyderabad,UPI
+ORD1517,2025-02-17,Backpack,Bags,4850.19,3,14550.57,Pune,Credit Card
+ORD1518,2025-04-08,Fire TV Stick,Electronics,3009.19,4,12036.76,Mumbai,Debit Card
+ORD1519,2024-09-30,Kindle,Electronics,422.08,4,1688.32,Pune,UPI
+ORD1520,2024-07-11,Laptop Sleeve,Accessories,3469.64,5,17348.2,Delhi,Cash on Delivery
+ORD1521,2024-06-28,Fire TV Stick,Electronics,291.25,2,582.5,Delhi,Credit Card
+ORD1522,2024-11-30,Kindle,Electronics,2063.79,3,6191.37,Chennai,Credit Card
+ORD1523,2024-12-27,Notebook,Stationery,3008.89,1,3008.89,Kolkata,Credit Card
+ORD1524,2024-07-13,Water Bottle,Home,4463.07,2,8926.14,Mumbai,Net Banking
+ORD1525,2025-01-25,Backpack,Bags,610.07,1,610.07,Hyderabad,Debit Card
+ORD1526,2024-08-03,T-shirt,Clothing,624.74,3,1874.22,Bangalore,Cash on Delivery
+ORD1527,2025-04-19,Kindle,Electronics,4575.37,2,9150.74,Hyderabad,Credit Card
+ORD1528,2025-04-03,LED Bulb,Home,910.08,1,910.08,Mumbai,Credit Card
+ORD1529,2025-04-09,Water Bottle,Home,2428.02,3,7284.06,Chennai,Net Banking
+ORD1530,2025-01-10,Fire TV Stick,Electronics,3655.93,3,10967.79,Hyderabad,Net Banking
+ORD1531,2024-11-25,Kindle,Electronics,4322.91,1,4322.91,Chennai,UPI
+ORD1532,2024-09-11,Laptop Sleeve,Accessories,3008.48,4,12033.92,Mumbai,Credit Card
+ORD1533,2025-03-09,Kindle,Electronics,1186.29,4,4745.16,Hyderabad,UPI
+ORD1534,2024-08-08,Laptop Sleeve,Accessories,2721.34,5,13606.7,Pune,Cash on Delivery
+ORD1535,2025-02-06,Sneakers,Footwear,1739.45,5,8697.25,Pune,UPI
+ORD1536,2024-10-31,Laptop Sleeve,Accessories,3368.23,3,10104.69,Chennai,Net Banking
+ORD1537,2024-11-13,Echo Dot,Electronics,3946.08,2,7892.16,Mumbai,Credit Card
+ORD1538,2025-04-14,Echo Dot,Electronics,4218.31,1,4218.31,Kolkata,Credit Card
+ORD1539,2024-06-23,Kindle,Electronics,4659.04,4,18636.16,Delhi,Debit Card
+ORD1540,2024-10-20,Backpack,Bags,2010.75,5,10053.75,Hyderabad,Net Banking
+ORD1541,2024-08-11,Notebook,Stationery,2692.57,4,10770.28,Ahmedabad,Debit Card
+ORD1542,2024-11-12,Echo Dot,Electronics,1303.6,3,3910.8,Pune,Cash on Delivery
+ORD1543,2025-04-15,Sneakers,Footwear,2654.87,4,10619.48,Chennai,Credit Card
+ORD1544,2025-01-11,Echo Dot,Electronics,1149.22,3,3447.66,Ahmedabad,UPI
+ORD1545,2025-02-17,Notebook,Stationery,2193.57,3,6580.71,Bangalore,Cash on Delivery
+ORD1546,2024-09-21,Laptop Sleeve,Accessories,2778.66,3,8335.98,Hyderabad,UPI
+ORD1547,2024-09-16,Water Bottle,Home,1020.02,2,2040.04,Ahmedabad,UPI
+ORD1548,2025-05-14,Kindle,Electronics,1841.72,5,9208.6,Ahmedabad,Cash on Delivery
+ORD1549,2024-06-29,Kindle,Electronics,1255.29,3,3765.87,Hyderabad,Net Banking
+ORD1550,2025-01-17,Water Bottle,Home,3070.19,4,12280.76,Ahmedabad,UPI
+ORD1551,2025-02-06,LED Bulb,Home,533.16,5,2665.8,Pune,UPI
+ORD1552,2024-11-22,Backpack,Bags,524.33,4,2097.32,Pune,UPI
+ORD1553,2025-05-22,Kindle,Electronics,2813.97,5,14069.85,Mumbai,Credit Card
+ORD1554,2024-08-17,LED Bulb,Home,965.38,4,3861.52,Hyderabad,Debit Card
+ORD1555,2025-06-14,LED Bulb,Home,4099.5,3,12298.5,Delhi,UPI
+ORD1556,2024-09-16,Water Bottle,Home,4314.59,4,17258.36,Delhi,Debit Card
+ORD1557,2025-06-08,LED Bulb,Home,2113.65,2,4227.3,Bangalore,Net Banking
+ORD1558,2024-11-10,Notebook,Stationery,3664.96,3,10994.88,Bangalore,Credit Card
+ORD1559,2025-04-17,Echo Dot,Electronics,3614.74,1,3614.74,Hyderabad,Credit Card
+ORD1560,2025-03-13,Backpack,Bags,4699.73,5,23498.65,Ahmedabad,Cash on Delivery
+ORD1561,2025-01-20,Notebook,Stationery,1127.11,1,1127.11,Ahmedabad,Credit Card
+ORD1562,2024-09-13,T-shirt,Clothing,3277.79,2,6555.58,Ahmedabad,Cash on Delivery
+ORD1563,2024-11-14,Laptop Sleeve,Accessories,1944.58,4,7778.32,Mumbai,Net Banking
+ORD1564,2025-05-20,Echo Dot,Electronics,309.27,3,927.81,Mumbai,Credit Card
+ORD1565,2025-02-19,Fire TV Stick,Electronics,1961.19,3,5883.57,Ahmedabad,Net Banking
+ORD1566,2024-09-17,Echo Dot,Electronics,4505.09,3,13515.27,Bangalore,Credit Card
+ORD1567,2025-06-08,T-shirt,Clothing,2228.73,2,4457.46,Bangalore,Credit Card
+ORD1568,2024-08-15,Backpack,Bags,832.69,1,832.69,Bangalore,UPI
+ORD1569,2025-05-10,Echo Dot,Electronics,1742.29,5,8711.45,Pune,Cash on Delivery
+ORD1570,2025-01-27,Notebook,Stationery,2090.69,4,8362.76,Ahmedabad,Credit Card
+ORD1571,2024-10-31,Sneakers,Footwear,3529.2,5,17646.0,Chennai,Debit Card
+ORD1572,2024-08-01,Sneakers,Footwear,2793.16,4,11172.64,Hyderabad,Net Banking
+ORD1573,2024-06-23,Notebook,Stationery,922.19,5,4610.95,Bangalore,UPI
+ORD1574,2024-07-27,Echo Dot,Electronics,753.06,1,753.06,Bangalore,Cash on Delivery
+ORD1575,2024-10-14,Notebook,Stationery,1123.79,3,3371.37,Hyderabad,Credit Card
+ORD1576,2024-08-19,Fire TV Stick,Electronics,2661.23,1,2661.23,Delhi,Net Banking
+ORD1577,2024-09-24,Fire TV Stick,Electronics,702.88,3,2108.64,Bangalore,Debit Card
+ORD1578,2025-02-13,Kindle,Electronics,4546.59,4,18186.36,Chennai,Credit Card
+ORD1579,2025-01-01,T-shirt,Clothing,780.67,3,2342.01,Pune,Cash on Delivery
+ORD1580,2024-12-15,Kindle,Electronics,2701.31,1,2701.31,Delhi,UPI
+ORD1581,2024-12-17,LED Bulb,Home,3107.21,3,9321.63,Ahmedabad,Credit Card
+ORD1582,2024-09-01,Backpack,Bags,2800.45,3,8401.35,Delhi,Net Banking
+ORD1583,2025-06-08,Kindle,Electronics,3442.06,5,17210.3,Delhi,UPI
+ORD1584,2024-10-05,Fire TV Stick,Electronics,1561.92,4,6247.68,Hyderabad,Cash on Delivery
+ORD1585,2024-06-21,Notebook,Stationery,3189.23,1,3189.23,Bangalore,Debit Card
+ORD1586,2025-02-05,Kindle,Electronics,4398.12,5,21990.6,Mumbai,Net Banking
+ORD1587,2024-11-16,Kindle,Electronics,957.24,2,1914.48,Hyderabad,Cash on Delivery
+ORD1588,2025-04-22,Laptop Sleeve,Accessories,3921.7,5,19608.5,Chennai,Credit Card
+ORD1589,2024-09-14,Backpack,Bags,4837.04,2,9674.08,Kolkata,Cash on Delivery
+ORD1590,2024-11-14,Laptop Sleeve,Accessories,3523.3,4,14093.2,Bangalore,UPI
+ORD1591,2024-10-30,LED Bulb,Home,3207.2,4,12828.8,Delhi,UPI
+ORD1592,2024-09-15,Sneakers,Footwear,3350.72,4,13402.88,Delhi,Debit Card
+ORD1593,2024-10-04,Backpack,Bags,2522.77,1,2522.77,Kolkata,Credit Card
+ORD1594,2024-10-18,T-shirt,Clothing,310.47,3,931.41,Ahmedabad,UPI
+ORD1595,2024-09-15,Fire TV Stick,Electronics,3622.61,2,7245.22,Delhi,Net Banking
+ORD1596,2025-02-06,Kindle,Electronics,3117.48,3,9352.44,Delhi,Credit Card
+ORD1597,2024-08-03,Water Bottle,Home,1533.17,1,1533.17,Mumbai,Net Banking
+ORD1598,2024-08-28,Water Bottle,Home,3710.19,3,11130.57,Delhi,Net Banking
+ORD1599,2024-08-31,Water Bottle,Home,3303.2,5,16516.0,Pune,UPI
+ORD1600,2024-07-10,Notebook,Stationery,4058.49,4,16233.96,Hyderabad,Debit Card
+ORD1601,2024-10-20,LED Bulb,Home,2196.08,1,2196.08,Hyderabad,Credit Card
+ORD1602,2025-03-06,Laptop Sleeve,Accessories,4609.93,5,23049.65,Delhi,Net Banking
+ORD1603,2025-05-10,Fire TV Stick,Electronics,469.52,2,939.04,Pune,Net Banking
+ORD1604,2025-02-13,Echo Dot,Electronics,3404.39,3,10213.17,Kolkata,Net Banking
+ORD1605,2024-08-27,Laptop Sleeve,Accessories,716.35,2,1432.7,Ahmedabad,Cash on Delivery
+ORD1606,2025-04-12,Echo Dot,Electronics,1462.91,1,1462.91,Chennai,Credit Card
+ORD1607,2024-08-13,Sneakers,Footwear,1617.86,3,4853.58,Mumbai,Credit Card
+ORD1608,2024-11-21,Kindle,Electronics,954.36,5,4771.8,Mumbai,Net Banking
+ORD1609,2024-07-18,Water Bottle,Home,574.2,1,574.2,Pune,UPI
+ORD1610,2025-04-15,Sneakers,Footwear,4710.94,5,23554.7,Hyderabad,UPI
+ORD1611,2025-05-17,T-shirt,Clothing,782.09,4,3128.36,Mumbai,UPI
+ORD1612,2024-08-12,Echo Dot,Electronics,4062.43,1,4062.43,Delhi,UPI
+ORD1613,2025-02-22,Sneakers,Footwear,1343.56,3,4030.68,Ahmedabad,Net Banking
+ORD1614,2024-10-01,Kindle,Electronics,753.08,5,3765.4,Chennai,Cash on Delivery
+ORD1615,2024-08-11,Notebook,Stationery,4881.93,3,14645.79,Delhi,Credit Card
+ORD1616,2024-09-26,Echo Dot,Electronics,4619.04,5,23095.2,Pune,Cash on Delivery
+ORD1617,2025-02-20,LED Bulb,Home,2461.46,4,9845.84,Chennai,Net Banking
+ORD1618,2024-06-22,Backpack,Bags,469.2,5,2346.0,Chennai,UPI
+ORD1619,2025-03-18,T-shirt,Clothing,2553.27,1,2553.27,Chennai,Credit Card
+ORD1620,2024-10-07,Notebook,Stationery,4234.58,3,12703.74,Chennai,Cash on Delivery
+ORD1621,2024-07-31,LED Bulb,Home,3549.04,1,3549.04,Kolkata,Net Banking
+ORD1622,2025-05-07,LED Bulb,Home,151.79,5,758.95,Pune,Debit Card
+ORD1623,2024-06-22,T-shirt,Clothing,139.22,3,417.66,Ahmedabad,UPI
+ORD1624,2024-11-05,Echo Dot,Electronics,2453.54,2,4907.08,Kolkata,Cash on Delivery
+ORD1625,2024-06-29,Notebook,Stationery,1444.66,4,5778.64,Pune,UPI
+ORD1626,2025-01-21,LED Bulb,Home,3174.99,4,12699.96,Kolkata,Credit Card
+ORD1627,2024-08-08,Backpack,Bags,2917.53,1,2917.53,Kolkata,Debit Card
+ORD1628,2025-01-03,Kindle,Electronics,2862.6,2,5725.2,Ahmedabad,Cash on Delivery
+ORD1629,2024-07-31,Laptop Sleeve,Accessories,4359.77,1,4359.77,Ahmedabad,Cash on Delivery
+ORD1630,2024-09-09,Sneakers,Footwear,3024.6,3,9073.8,Kolkata,Credit Card
+ORD1631,2025-06-11,Kindle,Electronics,1553.41,4,6213.64,Mumbai,Debit Card
+ORD1632,2025-05-19,Echo Dot,Electronics,3471.51,2,6943.02,Mumbai,Debit Card
+ORD1633,2025-01-03,Backpack,Bags,4479.4,5,22397.0,Ahmedabad,Net Banking
+ORD1634,2024-09-14,Echo Dot,Electronics,346.97,4,1387.88,Chennai,Net Banking
+ORD1635,2025-02-22,Notebook,Stationery,1271.93,3,3815.79,Bangalore,Cash on Delivery
+ORD1636,2025-03-11,T-shirt,Clothing,2213.11,3,6639.33,Ahmedabad,Cash on Delivery
+ORD1637,2025-01-22,Backpack,Bags,2985.02,5,14925.1,Bangalore,UPI
+ORD1638,2025-01-26,Kindle,Electronics,2327.92,5,11639.6,Mumbai,Credit Card
+ORD1639,2024-06-16,Echo Dot,Electronics,2060.96,3,6182.88,Pune,UPI
+ORD1640,2025-04-29,Echo Dot,Electronics,3075.97,4,12303.88,Kolkata,Cash on Delivery
+ORD1641,2025-02-24,LED Bulb,Home,4172.98,3,12518.94,Mumbai,Debit Card
+ORD1642,2024-10-09,T-shirt,Clothing,2265.06,5,11325.3,Chennai,UPI
+ORD1643,2025-04-19,Echo Dot,Electronics,1809.6,4,7238.4,Hyderabad,Credit Card
+ORD1644,2024-10-18,Fire TV Stick,Electronics,3840.05,3,11520.15,Bangalore,Cash on Delivery
+ORD1645,2025-04-03,LED Bulb,Home,1325.62,3,3976.86,Pune,Debit Card
+ORD1646,2025-03-07,Fire TV Stick,Electronics,1781.49,5,8907.45,Chennai,Cash on Delivery
+ORD1647,2025-04-01,LED Bulb,Home,3872.11,4,15488.44,Pune,Debit Card
+ORD1648,2024-10-17,Notebook,Stationery,4909.78,1,4909.78,Hyderabad,Net Banking
+ORD1649,2024-11-14,Notebook,Stationery,4776.55,3,14329.65,Bangalore,Cash on Delivery
+ORD1650,2024-09-12,Notebook,Stationery,995.23,3,2985.69,Delhi,Net Banking
+ORD1651,2024-09-02,Backpack,Bags,2579.38,1,2579.38,Hyderabad,Cash on Delivery
+ORD1652,2025-01-28,Fire TV Stick,Electronics,3222.82,4,12891.28,Mumbai,Cash on Delivery
+ORD1653,2024-12-02,LED Bulb,Home,3873.28,3,11619.84,Chennai,Net Banking
+ORD1654,2024-09-25,Fire TV Stick,Electronics,1659.66,5,8298.3,Mumbai,UPI
+ORD1655,2025-03-03,T-shirt,Clothing,1518.73,2,3037.46,Hyderabad,Cash on Delivery
+ORD1656,2025-01-29,Kindle,Electronics,3829.73,4,15318.92,Mumbai,Net Banking
+ORD1657,2024-08-07,Echo Dot,Electronics,1328.87,4,5315.48,Pune,Net Banking
+ORD1658,2024-06-17,Fire TV Stick,Electronics,1827.54,1,1827.54,Hyderabad,Cash on Delivery
+ORD1659,2024-07-02,T-shirt,Clothing,3872.1,5,19360.5,Ahmedabad,UPI
+ORD1660,2025-01-07,Laptop Sleeve,Accessories,182.23,2,364.46,Delhi,Credit Card
+ORD1661,2025-01-01,Water Bottle,Home,4831.82,3,14495.46,Hyderabad,Cash on Delivery
+ORD1662,2025-03-25,Laptop Sleeve,Accessories,1728.26,5,8641.3,Kolkata,Cash on Delivery
+ORD1663,2025-06-11,LED Bulb,Home,1301.18,1,1301.18,Bangalore,Credit Card
+ORD1664,2024-12-30,Laptop Sleeve,Accessories,548.15,3,1644.45,Chennai,Cash on Delivery
+ORD1665,2025-03-30,Laptop Sleeve,Accessories,1122.66,3,3367.98,Chennai,Net Banking
+ORD1666,2025-02-26,Kindle,Electronics,4957.99,2,9915.98,Delhi,Net Banking
+ORD1667,2025-04-05,Sneakers,Footwear,862.33,2,1724.66,Ahmedabad,Debit Card
+ORD1668,2024-09-21,Backpack,Bags,3428.98,3,10286.94,Delhi,Credit Card
+ORD1669,2025-04-03,LED Bulb,Home,817.63,5,4088.15,Chennai,Cash on Delivery
+ORD1670,2024-12-09,Fire TV Stick,Electronics,1666.7,5,8333.5,Chennai,UPI
+ORD1671,2025-03-19,Water Bottle,Home,2921.45,4,11685.8,Chennai,Credit Card
+ORD1672,2025-04-19,T-shirt,Clothing,1816.02,3,5448.06,Chennai,Debit Card
+ORD1673,2025-03-19,Water Bottle,Home,1738.36,5,8691.8,Delhi,Net Banking
+ORD1674,2024-08-15,Sneakers,Footwear,902.33,2,1804.66,Pune,Debit Card
+ORD1675,2024-11-14,Sneakers,Footwear,2565.81,2,5131.62,Kolkata,Credit Card
+ORD1676,2025-03-27,Echo Dot,Electronics,4044.29,3,12132.87,Chennai,Debit Card
+ORD1677,2024-10-28,Kindle,Electronics,1573.62,4,6294.48,Bangalore,Net Banking
+ORD1678,2025-05-08,Notebook,Stationery,3047.51,1,3047.51,Delhi,Cash on Delivery
+ORD1679,2024-09-27,T-shirt,Clothing,4260.13,3,12780.39,Kolkata,Credit Card
+ORD1680,2025-03-13,Laptop Sleeve,Accessories,3458.24,4,13832.96,Pune,UPI
+ORD1681,2025-02-11,Notebook,Stationery,4152.26,4,16609.04,Ahmedabad,Credit Card
+ORD1682,2024-11-23,Water Bottle,Home,4064.53,5,20322.65,Mumbai,Cash on Delivery
+ORD1683,2024-11-08,Backpack,Bags,3930.76,3,11792.28,Kolkata,UPI
+ORD1684,2025-03-28,Laptop Sleeve,Accessories,3042.67,5,15213.35,Hyderabad,Debit Card
+ORD1685,2025-03-12,Laptop Sleeve,Accessories,2844.39,2,5688.78,Bangalore,UPI
+ORD1686,2025-01-18,LED Bulb,Home,4166.99,5,20834.95,Pune,Cash on Delivery
+ORD1687,2024-09-26,Sneakers,Footwear,2279.14,3,6837.42,Mumbai,UPI
+ORD1688,2024-11-28,T-shirt,Clothing,3174.91,1,3174.91,Delhi,UPI
+ORD1689,2025-04-09,Fire TV Stick,Electronics,1513.52,3,4540.56,Mumbai,Cash on Delivery
+ORD1690,2025-02-03,Notebook,Stationery,4346.08,3,13038.24,Delhi,Credit Card
+ORD1691,2024-12-08,Fire TV Stick,Electronics,4991.59,1,4991.59,Hyderabad,Credit Card
+ORD1692,2025-06-12,T-shirt,Clothing,4155.4,2,8310.8,Bangalore,UPI
+ORD1693,2024-10-12,LED Bulb,Home,793.64,5,3968.2,Ahmedabad,Debit Card
+ORD1694,2025-03-11,Sneakers,Footwear,316.09,3,948.27,Kolkata,Credit Card
+ORD1695,2024-11-05,LED Bulb,Home,4786.2,3,14358.6,Pune,Debit Card
+ORD1696,2025-03-25,LED Bulb,Home,988.96,3,2966.88,Delhi,Debit Card
+ORD1697,2024-09-29,Notebook,Stationery,2135.46,4,8541.84,Hyderabad,Credit Card
+ORD1698,2025-02-07,Laptop Sleeve,Accessories,4866.62,4,19466.48,Pune,UPI
+ORD1699,2024-12-15,LED Bulb,Home,2704.11,4,10816.44,Hyderabad,Cash on Delivery
+ORD1700,2024-12-01,Echo Dot,Electronics,170.66,2,341.32,Mumbai,Net Banking
+ORD1701,2025-01-09,Backpack,Bags,3502.68,1,3502.68,Bangalore,Credit Card
+ORD1702,2025-03-27,Echo Dot,Electronics,4887.17,4,19548.68,Mumbai,Credit Card
+ORD1703,2024-08-21,Fire TV Stick,Electronics,344.62,5,1723.1,Pune,Debit Card
+ORD1704,2025-01-27,Kindle,Electronics,1796.58,4,7186.32,Bangalore,Net Banking
+ORD1705,2024-08-29,Echo Dot,Electronics,3275.04,5,16375.2,Hyderabad,Credit Card
+ORD1706,2024-06-17,Water Bottle,Home,4842.37,4,19369.48,Delhi,Cash on Delivery
+ORD1707,2025-04-16,Sneakers,Footwear,1555.12,5,7775.6,Pune,Cash on Delivery
+ORD1708,2024-11-01,LED Bulb,Home,2792.95,2,5585.9,Ahmedabad,Cash on Delivery
+ORD1709,2025-04-20,Echo Dot,Electronics,4506.89,5,22534.45,Bangalore,Credit Card
+ORD1710,2024-10-01,T-shirt,Clothing,3756.36,5,18781.8,Kolkata,Cash on Delivery
+ORD1711,2024-09-02,Laptop Sleeve,Accessories,1839.37,1,1839.37,Chennai,Credit Card
+ORD1712,2024-09-19,Laptop Sleeve,Accessories,1089.95,2,2179.9,Mumbai,Debit Card
+ORD1713,2024-11-25,Kindle,Electronics,3284.22,3,9852.66,Delhi,Credit Card
+ORD1714,2025-04-02,Water Bottle,Home,512.52,1,512.52,Hyderabad,Debit Card
+ORD1715,2024-07-25,Fire TV Stick,Electronics,4407.27,5,22036.35,Pune,Cash on Delivery
+ORD1716,2024-08-18,LED Bulb,Home,4352.9,4,17411.6,Bangalore,Net Banking
+ORD1717,2024-12-03,T-shirt,Clothing,209.39,2,418.78,Ahmedabad,Debit Card
+ORD1718,2024-11-13,Laptop Sleeve,Accessories,1184.14,3,3552.42,Kolkata,UPI
+ORD1719,2024-08-21,Fire TV Stick,Electronics,3203.32,3,9609.96,Kolkata,Debit Card
+ORD1720,2024-06-14,Laptop Sleeve,Accessories,2155.18,2,4310.36,Ahmedabad,UPI
+ORD1721,2024-07-09,Echo Dot,Electronics,3886.15,4,15544.6,Pune,UPI
+ORD1722,2024-08-10,Notebook,Stationery,3347.3,1,3347.3,Pune,Cash on Delivery
+ORD1723,2025-05-22,LED Bulb,Home,3443.28,5,17216.4,Hyderabad,Net Banking
+ORD1724,2024-11-26,Fire TV Stick,Electronics,4189.29,4,16757.16,Bangalore,Debit Card
+ORD1725,2025-01-02,Water Bottle,Home,2168.97,1,2168.97,Bangalore,Cash on Delivery
+ORD1726,2025-02-16,T-shirt,Clothing,4337.01,4,17348.04,Chennai,Credit Card
+ORD1727,2025-01-05,Backpack,Bags,3383.58,3,10150.74,Ahmedabad,UPI
+ORD1728,2024-09-23,Backpack,Bags,3746.37,4,14985.48,Ahmedabad,Debit Card
+ORD1729,2025-04-24,Echo Dot,Electronics,3408.84,1,3408.84,Pune,Credit Card
+ORD1730,2024-07-09,Laptop Sleeve,Accessories,3134.16,2,6268.32,Delhi,Net Banking
+ORD1731,2024-12-06,Backpack,Bags,127.39,2,254.78,Mumbai,Cash on Delivery
+ORD1732,2025-01-17,Kindle,Electronics,1295.73,1,1295.73,Kolkata,Credit Card
+ORD1733,2024-08-04,Fire TV Stick,Electronics,3755.15,1,3755.15,Delhi,Credit Card
+ORD1734,2025-04-21,Water Bottle,Home,1979.3,5,9896.5,Hyderabad,Net Banking
+ORD1735,2024-10-31,Fire TV Stick,Electronics,3059.42,4,12237.68,Ahmedabad,Credit Card
+ORD1736,2024-10-26,Water Bottle,Home,3235.02,1,3235.02,Chennai,Net Banking
+ORD1737,2024-06-16,Echo Dot,Electronics,1650.94,2,3301.88,Kolkata,Cash on Delivery
+ORD1738,2025-06-03,Water Bottle,Home,3174.26,1,3174.26,Bangalore,UPI
+ORD1739,2024-06-24,LED Bulb,Home,498.86,4,1995.44,Ahmedabad,Cash on Delivery
+ORD1740,2025-01-20,Fire TV Stick,Electronics,244.97,1,244.97,Chennai,Credit Card
+ORD1741,2024-10-13,Water Bottle,Home,4408.99,3,13226.97,Chennai,Cash on Delivery
+ORD1742,2024-07-21,Laptop Sleeve,Accessories,1061.04,5,5305.2,Bangalore,Cash on Delivery
+ORD1743,2024-06-24,LED Bulb,Home,4425.52,1,4425.52,Pune,Credit Card
+ORD1744,2024-12-18,Notebook,Stationery,3293.21,2,6586.42,Pune,UPI
+ORD1745,2025-05-24,Water Bottle,Home,4738.48,3,14215.44,Chennai,Net Banking
+ORD1746,2024-07-20,T-shirt,Clothing,4682.47,5,23412.35,Hyderabad,Debit Card
+ORD1747,2024-08-26,Notebook,Stationery,2559.75,2,5119.5,Kolkata,Net Banking
+ORD1748,2025-04-08,Sneakers,Footwear,3814.48,2,7628.96,Hyderabad,Debit Card
+ORD1749,2025-03-06,Laptop Sleeve,Accessories,2826.9,5,14134.5,Ahmedabad,Credit Card
+ORD1750,2025-05-17,Laptop Sleeve,Accessories,3498.02,1,3498.02,Mumbai,Cash on Delivery
+ORD1751,2024-10-03,LED Bulb,Home,3285.58,1,3285.58,Ahmedabad,Net Banking
+ORD1752,2024-11-01,Backpack,Bags,1033.59,5,5167.95,Hyderabad,Net Banking
+ORD1753,2024-08-30,Sneakers,Footwear,4761.4,5,23807.0,Pune,Cash on Delivery
+ORD1754,2024-07-29,Echo Dot,Electronics,3135.29,1,3135.29,Chennai,Net Banking
+ORD1755,2025-02-06,Kindle,Electronics,4251.15,3,12753.45,Bangalore,Net Banking
+ORD1756,2025-04-18,Backpack,Bags,1227.85,2,2455.7,Delhi,Debit Card
+ORD1757,2025-04-02,Water Bottle,Home,2442.37,4,9769.48,Mumbai,Credit Card
+ORD1758,2024-12-26,Notebook,Stationery,3216.61,2,6433.22,Kolkata,Credit Card
+ORD1759,2024-07-27,Water Bottle,Home,4867.74,2,9735.48,Mumbai,UPI
+ORD1760,2024-06-30,Echo Dot,Electronics,262.67,1,262.67,Mumbai,UPI
+ORD1761,2024-11-13,Laptop Sleeve,Accessories,1833.4,3,5500.2,Chennai,UPI
+ORD1762,2024-11-29,Sneakers,Footwear,4574.65,1,4574.65,Ahmedabad,Debit Card
+ORD1763,2024-10-20,Water Bottle,Home,3057.67,4,12230.68,Chennai,Net Banking
+ORD1764,2025-03-04,Kindle,Electronics,1275.11,3,3825.33,Pune,Debit Card
+ORD1765,2025-05-13,Echo Dot,Electronics,213.11,5,1065.55,Kolkata,Net Banking
+ORD1766,2024-11-08,Fire TV Stick,Electronics,4644.59,2,9289.18,Delhi,Credit Card
+ORD1767,2025-05-11,LED Bulb,Home,2736.3,1,2736.3,Bangalore,Credit Card
+ORD1768,2024-08-22,Echo Dot,Electronics,2292.61,2,4585.22,Bangalore,Cash on Delivery
+ORD1769,2024-08-10,LED Bulb,Home,3671.47,4,14685.88,Ahmedabad,Debit Card
+ORD1770,2024-10-21,Sneakers,Footwear,277.08,5,1385.4,Delhi,Debit Card
+ORD1771,2024-09-15,Kindle,Electronics,3356.75,3,10070.25,Kolkata,Net Banking
+ORD1772,2024-07-17,Laptop Sleeve,Accessories,4072.23,5,20361.15,Pune,Credit Card
+ORD1773,2024-12-06,Kindle,Electronics,2835.11,4,11340.44,Ahmedabad,Net Banking
+ORD1774,2025-03-02,LED Bulb,Home,2198.26,2,4396.52,Ahmedabad,Credit Card
+ORD1775,2025-05-03,Echo Dot,Electronics,2347.78,1,2347.78,Hyderabad,Cash on Delivery
+ORD1776,2024-06-21,Laptop Sleeve,Accessories,4189.71,4,16758.84,Mumbai,Credit Card
+ORD1777,2024-12-08,Sneakers,Footwear,922.48,3,2767.44,Ahmedabad,Net Banking
+ORD1778,2025-05-01,Laptop Sleeve,Accessories,2802.55,1,2802.55,Chennai,Net Banking
+ORD1779,2025-04-22,T-shirt,Clothing,897.96,4,3591.84,Kolkata,Debit Card
+ORD1780,2025-04-02,Notebook,Stationery,1022.35,4,4089.4,Chennai,Debit Card
+ORD1781,2024-10-16,Backpack,Bags,1936.05,3,5808.15,Hyderabad,Net Banking
+ORD1782,2025-05-13,Laptop Sleeve,Accessories,1416.17,2,2832.34,Ahmedabad,Debit Card
+ORD1783,2024-12-15,Sneakers,Footwear,4295.24,3,12885.72,Pune,Net Banking
+ORD1784,2025-04-12,T-shirt,Clothing,157.38,1,157.38,Hyderabad,UPI
+ORD1785,2024-09-04,LED Bulb,Home,1311.41,5,6557.05,Mumbai,Cash on Delivery
+ORD1786,2024-08-30,T-shirt,Clothing,2442.04,1,2442.04,Hyderabad,Cash on Delivery
+ORD1787,2025-05-31,T-shirt,Clothing,2365.72,5,11828.6,Chennai,Credit Card
+ORD1788,2025-04-30,Laptop Sleeve,Accessories,3847.79,5,19238.95,Pune,Debit Card
+ORD1789,2025-03-15,T-shirt,Clothing,1542.01,2,3084.02,Bangalore,Credit Card
+ORD1790,2024-08-10,Water Bottle,Home,3382.38,4,13529.52,Delhi,Net Banking
+ORD1791,2025-03-04,LED Bulb,Home,459.4,2,918.8,Mumbai,Debit Card
+ORD1792,2024-08-02,Water Bottle,Home,2243.85,1,2243.85,Pune,UPI
+ORD1793,2025-04-28,Laptop Sleeve,Accessories,2590.88,3,7772.64,Chennai,UPI
+ORD1794,2024-11-14,Laptop Sleeve,Accessories,1732.75,4,6931.0,Pune,Debit Card
+ORD1795,2024-08-21,Kindle,Electronics,2562.81,4,10251.24,Kolkata,Debit Card
+ORD1796,2025-03-24,Kindle,Electronics,3884.04,1,3884.04,Kolkata,UPI
+ORD1797,2025-04-25,Notebook,Stationery,3575.74,4,14302.96,Hyderabad,UPI
+ORD1798,2024-06-21,LED Bulb,Home,3108.92,1,3108.92,Mumbai,Net Banking
+ORD1799,2025-04-01,Laptop Sleeve,Accessories,2382.93,1,2382.93,Pune,Net Banking
+ORD1800,2024-09-11,Laptop Sleeve,Accessories,4957.02,3,14871.06,Mumbai,UPI
+ORD1801,2025-01-06,LED Bulb,Home,3685.05,5,18425.25,Bangalore,Net Banking
+ORD1802,2025-01-03,Water Bottle,Home,3020.27,5,15101.35,Pune,Credit Card
+ORD1803,2025-06-14,LED Bulb,Home,2631.3,4,10525.2,Chennai,Debit Card
+ORD1804,2024-07-23,Notebook,Stationery,3808.2,2,7616.4,Bangalore,Credit Card
+ORD1805,2025-04-19,Sneakers,Footwear,1469.69,2,2939.38,Mumbai,Cash on Delivery
+ORD1806,2024-09-16,Water Bottle,Home,1151.9,5,5759.5,Bangalore,Cash on Delivery
+ORD1807,2024-08-02,Sneakers,Footwear,4461.5,3,13384.5,Delhi,Cash on Delivery
+ORD1808,2024-10-16,Sneakers,Footwear,3847.9,2,7695.8,Bangalore,Net Banking
+ORD1809,2025-03-26,Kindle,Electronics,2802.67,3,8408.01,Chennai,UPI
+ORD1810,2024-10-17,Fire TV Stick,Electronics,4629.81,4,18519.24,Hyderabad,Cash on Delivery
+ORD1811,2025-02-15,Sneakers,Footwear,1028.28,3,3084.84,Ahmedabad,UPI
+ORD1812,2024-06-20,Water Bottle,Home,1377.44,5,6887.2,Ahmedabad,Debit Card
+ORD1813,2024-09-13,Echo Dot,Electronics,3527.41,4,14109.64,Chennai,Cash on Delivery
+ORD1814,2025-04-17,Fire TV Stick,Electronics,1121.42,1,1121.42,Bangalore,Credit Card
+ORD1815,2024-07-23,Notebook,Stationery,2428.25,2,4856.5,Kolkata,Cash on Delivery
+ORD1816,2025-04-23,Fire TV Stick,Electronics,4992.11,5,24960.55,Bangalore,Debit Card
+ORD1817,2025-01-07,Kindle,Electronics,1195.28,4,4781.12,Delhi,Cash on Delivery
+ORD1818,2025-04-29,Sneakers,Footwear,1222.35,1,1222.35,Ahmedabad,UPI
+ORD1819,2024-07-17,Echo Dot,Electronics,4689.59,2,9379.18,Bangalore,Credit Card
+ORD1820,2024-10-01,Sneakers,Footwear,2824.9,3,8474.7,Pune,Net Banking
+ORD1821,2025-05-18,Backpack,Bags,930.12,3,2790.36,Bangalore,Debit Card
+ORD1822,2024-10-31,Notebook,Stationery,4099.83,2,8199.66,Chennai,Cash on Delivery
+ORD1823,2024-12-01,Echo Dot,Electronics,3995.72,1,3995.72,Ahmedabad,UPI
+ORD1824,2025-04-24,Notebook,Stationery,2800.64,5,14003.2,Mumbai,Credit Card
+ORD1825,2024-07-11,LED Bulb,Home,2561.79,5,12808.95,Ahmedabad,UPI
+ORD1826,2025-03-04,Fire TV Stick,Electronics,1491.5,3,4474.5,Bangalore,Credit Card
+ORD1827,2025-04-28,Laptop Sleeve,Accessories,1561.29,4,6245.16,Mumbai,UPI
+ORD1828,2024-10-09,Echo Dot,Electronics,1817.28,2,3634.56,Kolkata,Net Banking
+ORD1829,2024-12-06,Backpack,Bags,2053.34,5,10266.7,Delhi,UPI
+ORD1830,2025-02-16,Notebook,Stationery,3593.82,2,7187.64,Chennai,Credit Card
+ORD1831,2025-06-10,Laptop Sleeve,Accessories,4122.86,1,4122.86,Hyderabad,Debit Card
+ORD1832,2024-11-27,Backpack,Bags,1921.21,2,3842.42,Kolkata,UPI
+ORD1833,2024-08-26,Backpack,Bags,691.0,5,3455.0,Mumbai,UPI
+ORD1834,2024-09-12,Notebook,Stationery,4991.22,3,14973.66,Mumbai,Cash on Delivery
+ORD1835,2024-12-29,Sneakers,Footwear,3614.14,5,18070.7,Kolkata,Net Banking
+ORD1836,2024-07-26,Kindle,Electronics,3796.49,1,3796.49,Mumbai,Credit Card
+ORD1837,2025-03-29,Laptop Sleeve,Accessories,4438.77,3,13316.31,Pune,UPI
+ORD1838,2024-07-19,Echo Dot,Electronics,1281.28,4,5125.12,Hyderabad,Debit Card
+ORD1839,2025-02-27,T-shirt,Clothing,1094.72,2,2189.44,Mumbai,Debit Card
+ORD1840,2025-03-26,LED Bulb,Home,1294.76,4,5179.04,Chennai,Cash on Delivery
+ORD1841,2025-05-04,Sneakers,Footwear,170.78,2,341.56,Bangalore,Credit Card
+ORD1842,2024-10-12,LED Bulb,Home,4336.84,4,17347.36,Ahmedabad,Debit Card
+ORD1843,2025-05-14,Sneakers,Footwear,2487.57,1,2487.57,Pune,UPI
+ORD1844,2025-04-24,Kindle,Electronics,1999.47,4,7997.88,Delhi,Net Banking
+ORD1845,2025-06-03,Echo Dot,Electronics,4001.73,1,4001.73,Chennai,UPI
+ORD1846,2025-06-09,Sneakers,Footwear,746.55,3,2239.65,Bangalore,Credit Card
+ORD1847,2025-01-09,Fire TV Stick,Electronics,4275.12,3,12825.36,Pune,UPI
+ORD1848,2024-07-30,LED Bulb,Home,3945.43,5,19727.15,Chennai,Credit Card
+ORD1849,2024-09-28,Sneakers,Footwear,1090.68,5,5453.4,Mumbai,Net Banking
+ORD1850,2024-10-09,T-shirt,Clothing,4595.0,3,13785.0,Bangalore,Net Banking
+ORD1851,2024-10-28,Notebook,Stationery,4239.09,1,4239.09,Kolkata,Debit Card
+ORD1852,2024-11-16,Laptop Sleeve,Accessories,4430.99,3,13292.97,Chennai,UPI
+ORD1853,2024-10-11,Sneakers,Footwear,3778.41,3,11335.23,Delhi,Net Banking
+ORD1854,2025-05-02,T-shirt,Clothing,2633.7,2,5267.4,Mumbai,UPI
+ORD1855,2024-08-03,Echo Dot,Electronics,613.07,3,1839.21,Kolkata,Debit Card
+ORD1856,2024-08-22,Echo Dot,Electronics,1106.85,3,3320.55,Kolkata,Net Banking
+ORD1857,2024-12-31,Kindle,Electronics,408.09,2,816.18,Bangalore,Cash on Delivery
+ORD1858,2025-04-20,Backpack,Bags,264.67,1,264.67,Pune,Debit Card
+ORD1859,2025-03-10,T-shirt,Clothing,2565.06,1,2565.06,Kolkata,Cash on Delivery
+ORD1860,2024-10-27,Water Bottle,Home,192.58,5,962.9,Bangalore,Net Banking
+ORD1861,2025-03-31,Backpack,Bags,3486.47,3,10459.41,Pune,Debit Card
+ORD1862,2025-02-26,Water Bottle,Home,2112.58,1,2112.58,Ahmedabad,Debit Card
+ORD1863,2024-10-21,Laptop Sleeve,Accessories,2481.21,1,2481.21,Bangalore,Net Banking
+ORD1864,2024-12-17,Sneakers,Footwear,3737.07,4,14948.28,Delhi,Cash on Delivery
+ORD1865,2025-03-04,LED Bulb,Home,2133.75,4,8535.0,Ahmedabad,Debit Card
+ORD1866,2024-11-15,Notebook,Stationery,2603.31,5,13016.55,Pune,Net Banking
+ORD1867,2025-03-20,Water Bottle,Home,1858.87,4,7435.48,Hyderabad,Net Banking
+ORD1868,2025-04-20,Kindle,Electronics,3452.86,4,13811.44,Bangalore,Debit Card
+ORD1869,2024-07-04,T-shirt,Clothing,4749.17,3,14247.51,Ahmedabad,UPI
+ORD1870,2025-03-02,Fire TV Stick,Electronics,1054.27,3,3162.81,Mumbai,Cash on Delivery
+ORD1871,2025-01-14,Echo Dot,Electronics,4121.85,2,8243.7,Kolkata,Cash on Delivery
+ORD1872,2024-08-18,Sneakers,Footwear,2207.19,3,6621.57,Hyderabad,Cash on Delivery
+ORD1873,2024-07-06,Kindle,Electronics,1866.48,1,1866.48,Mumbai,Debit Card
+ORD1874,2024-06-29,Fire TV Stick,Electronics,4640.27,1,4640.27,Pune,Net Banking
+ORD1875,2025-01-02,Water Bottle,Home,3728.93,5,18644.65,Pune,Cash on Delivery
+ORD1876,2024-11-17,Fire TV Stick,Electronics,4644.01,1,4644.01,Chennai,Debit Card
+ORD1877,2025-02-15,Echo Dot,Electronics,673.95,1,673.95,Bangalore,Cash on Delivery
+ORD1878,2025-03-06,Kindle,Electronics,589.58,3,1768.74,Kolkata,Debit Card
+ORD1879,2024-10-03,Kindle,Electronics,1591.69,5,7958.45,Mumbai,Credit Card
+ORD1880,2024-10-20,Echo Dot,Electronics,511.38,3,1534.14,Hyderabad,Cash on Delivery
+ORD1881,2025-01-18,Water Bottle,Home,2404.22,4,9616.88,Pune,Net Banking
+ORD1882,2024-11-24,LED Bulb,Home,3129.51,2,6259.02,Mumbai,Credit Card
+ORD1883,2025-01-13,Backpack,Bags,2655.63,1,2655.63,Kolkata,Net Banking
+ORD1884,2024-10-08,T-shirt,Clothing,470.4,2,940.8,Bangalore,Credit Card
+ORD1885,2025-04-02,Sneakers,Footwear,2590.9,5,12954.5,Delhi,Credit Card
+ORD1886,2025-04-27,Backpack,Bags,2380.62,4,9522.48,Pune,UPI
+ORD1887,2024-11-07,Echo Dot,Electronics,4522.01,2,9044.02,Delhi,UPI
+ORD1888,2024-09-01,Sneakers,Footwear,3410.68,1,3410.68,Chennai,Cash on Delivery
+ORD1889,2025-03-24,Water Bottle,Home,161.01,3,483.03,Hyderabad,Net Banking
+ORD1890,2024-10-05,Notebook,Stationery,4797.49,5,23987.45,Kolkata,Debit Card
+ORD1891,2025-02-21,Water Bottle,Home,2852.68,3,8558.04,Bangalore,Credit Card
+ORD1892,2024-12-25,Echo Dot,Electronics,1688.11,1,1688.11,Mumbai,UPI
+ORD1893,2024-09-20,T-shirt,Clothing,1590.81,3,4772.43,Pune,UPI
+ORD1894,2024-10-02,Kindle,Electronics,2959.4,3,8878.2,Hyderabad,Debit Card
+ORD1895,2024-07-10,T-shirt,Clothing,1917.29,1,1917.29,Bangalore,Credit Card
+ORD1896,2025-04-03,LED Bulb,Home,4762.98,1,4762.98,Pune,Credit Card
+ORD1897,2024-08-11,Notebook,Stationery,2993.82,5,14969.1,Bangalore,Debit Card
+ORD1898,2024-11-18,Fire TV Stick,Electronics,2225.26,1,2225.26,Ahmedabad,Credit Card
+ORD1899,2024-10-27,Laptop Sleeve,Accessories,3053.56,2,6107.12,Ahmedabad,Debit Card
+ORD1900,2025-01-09,Water Bottle,Home,297.49,3,892.47,Mumbai,Cash on Delivery
+ORD1901,2024-08-09,T-shirt,Clothing,2157.13,4,8628.52,Hyderabad,Net Banking
+ORD1902,2024-06-26,Echo Dot,Electronics,4447.24,4,17788.96,Hyderabad,Net Banking
+ORD1903,2024-08-27,Laptop Sleeve,Accessories,2743.83,4,10975.32,Bangalore,Cash on Delivery
+ORD1904,2024-08-15,Laptop Sleeve,Accessories,2848.04,2,5696.08,Pune,Debit Card
+ORD1905,2024-08-04,Backpack,Bags,2356.27,4,9425.08,Chennai,UPI
+ORD1906,2025-01-15,T-shirt,Clothing,305.77,1,305.77,Pune,Debit Card
+ORD1907,2024-10-09,Laptop Sleeve,Accessories,720.01,4,2880.04,Delhi,Debit Card
+ORD1908,2025-05-12,Backpack,Bags,308.72,3,926.16,Bangalore,Net Banking
+ORD1909,2025-01-20,Kindle,Electronics,570.58,3,1711.74,Bangalore,Cash on Delivery
+ORD1910,2025-03-31,Kindle,Electronics,378.68,4,1514.72,Delhi,Credit Card
+ORD1911,2024-12-25,Fire TV Stick,Electronics,3432.11,2,6864.22,Delhi,Net Banking
+ORD1912,2024-08-29,T-shirt,Clothing,954.18,5,4770.9,Bangalore,Cash on Delivery
+ORD1913,2024-07-31,Laptop Sleeve,Accessories,4088.52,1,4088.52,Mumbai,Net Banking
+ORD1914,2025-05-23,LED Bulb,Home,2305.65,3,6916.95,Pune,Cash on Delivery
+ORD1915,2024-09-16,LED Bulb,Home,4033.3,4,16133.2,Chennai,Net Banking
+ORD1916,2024-08-08,Fire TV Stick,Electronics,3381.47,1,3381.47,Pune,Debit Card
+ORD1917,2025-03-29,Backpack,Bags,2342.71,1,2342.71,Bangalore,Debit Card
+ORD1918,2024-10-31,Sneakers,Footwear,1410.16,1,1410.16,Hyderabad,Debit Card
+ORD1919,2025-06-12,Echo Dot,Electronics,4816.86,4,19267.44,Hyderabad,UPI
+ORD1920,2025-02-15,Echo Dot,Electronics,887.93,3,2663.79,Hyderabad,Cash on Delivery
+ORD1921,2024-10-07,Backpack,Bags,3454.41,4,13817.64,Ahmedabad,Credit Card
+ORD1922,2025-01-09,Water Bottle,Home,2809.73,3,8429.19,Bangalore,Net Banking
+ORD1923,2024-12-28,Sneakers,Footwear,1732.87,3,5198.61,Ahmedabad,UPI
+ORD1924,2025-02-12,Laptop Sleeve,Accessories,4067.3,5,20336.5,Bangalore,Net Banking
+ORD1925,2025-06-11,Water Bottle,Home,3102.9,5,15514.5,Delhi,UPI
+ORD1926,2025-04-10,Backpack,Bags,2435.84,4,9743.36,Pune,Cash on Delivery
+ORD1927,2024-11-23,Fire TV Stick,Electronics,362.78,2,725.56,Bangalore,Debit Card
+ORD1928,2024-09-10,Kindle,Electronics,1040.38,3,3121.14,Hyderabad,Cash on Delivery
+ORD1929,2025-03-23,Backpack,Bags,4856.81,2,9713.62,Ahmedabad,Net Banking
+ORD1930,2025-05-03,Echo Dot,Electronics,4076.99,5,20384.95,Pune,Net Banking
+ORD1931,2024-11-18,Echo Dot,Electronics,4119.57,5,20597.85,Ahmedabad,Credit Card
+ORD1932,2024-09-04,Water Bottle,Home,1688.55,1,1688.55,Ahmedabad,Cash on Delivery
+ORD1933,2025-06-13,Notebook,Stationery,3478.4,5,17392.0,Pune,Debit Card
+ORD1934,2024-12-17,Laptop Sleeve,Accessories,2759.69,4,11038.76,Hyderabad,UPI
+ORD1935,2024-09-18,Notebook,Stationery,2892.08,1,2892.08,Chennai,UPI
+ORD1936,2025-04-09,T-shirt,Clothing,3213.46,3,9640.38,Kolkata,Net Banking
+ORD1937,2025-04-07,Fire TV Stick,Electronics,1368.37,5,6841.85,Bangalore,Credit Card
+ORD1938,2025-05-10,Backpack,Bags,1746.62,4,6986.48,Delhi,Credit Card
+ORD1939,2025-04-05,Sneakers,Footwear,3481.6,2,6963.2,Kolkata,Credit Card
+ORD1940,2024-10-10,T-shirt,Clothing,318.96,3,956.88,Pune,Net Banking
+ORD1941,2024-12-17,Kindle,Electronics,1464.99,4,5859.96,Kolkata,UPI
+ORD1942,2025-02-26,Laptop Sleeve,Accessories,4363.11,3,13089.33,Bangalore,Debit Card
+ORD1943,2024-08-18,Laptop Sleeve,Accessories,165.73,1,165.73,Ahmedabad,Credit Card
+ORD1944,2024-08-11,Water Bottle,Home,4358.54,5,21792.7,Pune,Cash on Delivery
+ORD1945,2024-07-10,Sneakers,Footwear,3348.1,5,16740.5,Ahmedabad,Cash on Delivery
+ORD1946,2025-03-04,Kindle,Electronics,3133.22,1,3133.22,Pune,UPI
+ORD1947,2025-05-19,Fire TV Stick,Electronics,1662.05,2,3324.1,Chennai,Debit Card
+ORD1948,2025-04-26,Notebook,Stationery,740.23,5,3701.15,Bangalore,Cash on Delivery
+ORD1949,2025-03-26,Backpack,Bags,4126.16,1,4126.16,Delhi,Cash on Delivery
+ORD1950,2025-05-25,Fire TV Stick,Electronics,4171.98,4,16687.92,Kolkata,UPI
+ORD1951,2024-07-05,Sneakers,Footwear,2085.96,5,10429.8,Delhi,Net Banking
+ORD1952,2025-03-01,Echo Dot,Electronics,972.51,2,1945.02,Kolkata,Net Banking
+ORD1953,2025-04-26,Backpack,Bags,4582.03,3,13746.09,Pune,Debit Card
+ORD1954,2025-02-09,Kindle,Electronics,128.33,2,256.66,Chennai,Debit Card
+ORD1955,2024-07-04,Backpack,Bags,998.32,3,2994.96,Pune,UPI
+ORD1956,2025-01-06,Water Bottle,Home,4090.45,1,4090.45,Ahmedabad,Debit Card
+ORD1957,2024-06-24,T-shirt,Clothing,1756.44,1,1756.44,Mumbai,Debit Card
+ORD1958,2024-09-27,Fire TV Stick,Electronics,3631.78,1,3631.78,Delhi,Debit Card
+ORD1959,2025-06-05,Sneakers,Footwear,3676.43,2,7352.86,Chennai,Credit Card
+ORD1960,2025-02-08,Notebook,Stationery,2050.73,3,6152.19,Kolkata,UPI
+ORD1961,2024-08-01,Echo Dot,Electronics,2242.71,2,4485.42,Hyderabad,Net Banking
+ORD1962,2024-09-14,LED Bulb,Home,570.69,3,1712.07,Delhi,Net Banking
+ORD1963,2024-09-13,T-shirt,Clothing,1292.03,5,6460.15,Kolkata,Net Banking
+ORD1964,2025-05-24,Backpack,Bags,3014.82,1,3014.82,Hyderabad,Cash on Delivery
+ORD1965,2025-04-15,Sneakers,Footwear,180.84,3,542.52,Bangalore,Debit Card
+ORD1966,2024-12-30,Echo Dot,Electronics,4616.19,4,18464.76,Kolkata,Net Banking
+ORD1967,2024-12-29,LED Bulb,Home,1540.74,3,4622.22,Kolkata,Net Banking
+ORD1968,2025-02-15,Fire TV Stick,Electronics,4214.93,4,16859.72,Chennai,UPI
+ORD1969,2025-01-12,T-shirt,Clothing,4229.13,3,12687.39,Delhi,Debit Card
+ORD1970,2024-10-15,Notebook,Stationery,712.47,5,3562.35,Ahmedabad,Credit Card
+ORD1971,2025-05-25,LED Bulb,Home,269.64,5,1348.2,Hyderabad,Debit Card
+ORD1972,2024-10-13,Backpack,Bags,3935.59,5,19677.95,Mumbai,UPI
+ORD1973,2024-12-12,Kindle,Electronics,2557.31,4,10229.24,Ahmedabad,Net Banking
+ORD1974,2024-09-01,Echo Dot,Electronics,4199.61,5,20998.05,Chennai,Cash on Delivery
+ORD1975,2024-08-09,LED Bulb,Home,3095.43,1,3095.43,Pune,Debit Card
+ORD1976,2024-09-13,Water Bottle,Home,744.81,5,3724.05,Pune,Net Banking
+ORD1977,2024-12-12,Echo Dot,Electronics,2073.23,1,2073.23,Mumbai,Debit Card
+ORD1978,2024-11-14,Sneakers,Footwear,1137.12,1,1137.12,Pune,Credit Card
+ORD1979,2024-10-19,Sneakers,Footwear,3832.63,5,19163.15,Bangalore,Net Banking
+ORD1980,2025-01-10,Echo Dot,Electronics,909.77,4,3639.08,Pune,UPI
+ORD1981,2025-04-23,Backpack,Bags,528.74,1,528.74,Pune,UPI
+ORD1982,2025-02-04,Kindle,Electronics,2517.1,2,5034.2,Kolkata,Credit Card
+ORD1983,2025-04-02,Backpack,Bags,3127.87,5,15639.35,Ahmedabad,Net Banking
+ORD1984,2024-10-29,Laptop Sleeve,Accessories,207.82,4,831.28,Delhi,Credit Card
+ORD1985,2024-09-13,Notebook,Stationery,1963.07,1,1963.07,Chennai,UPI
+ORD1986,2025-01-23,Water Bottle,Home,2854.08,5,14270.4,Pune,Cash on Delivery
+ORD1987,2024-11-07,Echo Dot,Electronics,4066.57,1,4066.57,Delhi,Cash on Delivery
+ORD1988,2024-09-30,Water Bottle,Home,4902.96,2,9805.92,Hyderabad,Cash on Delivery
+ORD1989,2025-05-23,T-shirt,Clothing,1019.36,5,5096.8,Pune,Net Banking
+ORD1990,2025-05-01,T-shirt,Clothing,3565.6,3,10696.8,Kolkata,Debit Card
+ORD1991,2024-10-14,Water Bottle,Home,2338.99,4,9355.96,Bangalore,Cash on Delivery
+ORD1992,2025-04-29,T-shirt,Clothing,4238.56,1,4238.56,Chennai,Cash on Delivery
+ORD1993,2025-04-27,Laptop Sleeve,Accessories,3230.68,1,3230.68,Chennai,Cash on Delivery
+ORD1994,2025-05-26,LED Bulb,Home,2211.66,1,2211.66,Hyderabad,Debit Card
+ORD1995,2025-02-01,Laptop Sleeve,Accessories,4707.64,1,4707.64,Chennai,Cash on Delivery
+ORD1996,2024-08-17,Laptop Sleeve,Accessories,2908.78,4,11635.12,Mumbai,UPI
+ORD1997,2024-12-19,Backpack,Bags,203.87,4,815.48,Bangalore,Cash on Delivery
+ORD1998,2024-07-22,Laptop Sleeve,Accessories,4954.6,3,14863.8,Pune,Credit Card
+ORD1999,2025-05-20,Laptop Sleeve,Accessories,4667.03,1,4667.03,Mumbai,UPI

@@ -1,10 +1,8 @@
-# 📊 Amazon Sales SQL Project
+#  Amazon Sales SQL Project
 
-This project analyzes a simulated Amazon sales dataset using SQL. The dataset contains 1,000 rows of order-level data from an e-commerce store and is ideal for beginner-to-intermediate SQL learners.
+This project analyzes a simulated Amazon sales dataset using SQL.
 
----
-
-## 📁 Dataset Overview
+##  Dataset Overview
 
 The dataset `amazon_sales_1000.csv` contains the following fields:
 
@@ -20,7 +18,7 @@ The dataset `amazon_sales_1000.csv` contains the following fields:
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To answer real-world business questions using SQL:
 
@@ -31,7 +29,7 @@ To answer real-world business questions using SQL:
 
 ---
 
-## 🔍 SQL Analysis Covered
+##  SQL Analysis Covered
 
 I used **15 SQL queries** to answer business questions such as:
 
@@ -41,9 +39,4 @@ I used **15 SQL queries** to answer business questions such as:
 - Which products are top sellers?
 - How does monthly revenue trend?
 
-See the full question list in [`analysis_questions.md`](./SQL_Queries/analysis_questions.md)
-SQL queries are available in [`queries.sql`](./SQL_Queries/queries.sql)
 
----
-
-## 📂 Folder Structure

@@ -5,7 +5,7 @@ A comprehensive SQL project analyzing a **normalized 5-table ecommerce database*
 ---
 
 ## 👩‍💻 Author
-**Dipali** | Aspiring Data Analyst
+**Dipali** | Aspiring Data Scientist
 📍 India | 🔗 [GitHub](https://github.com/Dipali-cpu)
 
 ---

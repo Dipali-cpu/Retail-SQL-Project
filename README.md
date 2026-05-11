@@ -18,17 +18,15 @@ Retail-SQL-Project/
 ├── SQL_queries/
 │   └── Ecommerce_SQL_Project_52_Queries.sql   ← All 52 queries
 │
-├── results/
-│   ├── Q9_overall_kpis.png
-│   ├── Q11_revenue_by_category.png
-│   ├── Q12_monthly_revenue_trend.png
-│   ├── Q13_revenue_by_city.png
-│   ├── Q17_full_order_details.png
-│   ├── Q28_mom_revenue_growth.png
-│   ├── Q31_abc_customer_segmentation.png
-│   ├── Q34_product_rank_by_category.png
-│   ├── Q41_pivot_city_category.png
-│   └── Q50_executive_kpi_dashboard.png
+├── 
+│   ├── Q9.png
+│   ├── Q12.png
+│   ├── Q13.png
+│   ├── Q17.png
+│   ├── Q31.png
+│   ├── Q34.png
+│   ├── Q41.png
+│   └── Q50.png
 │
 └── README.md
 ```
@@ -128,24 +126,6 @@ signup_date           total_amount         quantity
 - Pivot table — revenue by category per city
 - Rolling 3-month average revenue trend
 
----
-
-## 📸 Query Results
-
-### Overall KPI Dashboard
-![KPI Dashboard](results/Q9_overall_kpis.png)
-
-### Revenue by Category
-![Revenue by Category](results/Q11_revenue_by_category.png)
-
-### Monthly Revenue Trend
-![Monthly Trend](results/Q12_monthly_revenue_trend.png)
-
-### ABC Customer Segmentation
-![ABC Segmentation](results/Q31_abc_customer_segmentation.png)
-
-### Product Rank Within Category (Window Function)
-![Product Rank](results/Q34_product_rank_by_category.png)
 
 ---
 
